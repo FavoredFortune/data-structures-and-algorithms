@@ -3,7 +3,7 @@ public class DO1_ArrayReverse {
     }
     public static void reverseArray(int[] arr){
         int newArray;
-        for (int i = 0; i< arr.length; i++){
+        for (int i = 0; i< arr.length/2; i++){
             newArray = arr[i];
             arr[i] = arr[arr.length -i - 1];
             arr[arr.length -i - 1] = newArray;
