@@ -6,7 +6,8 @@ class D01_ArrayReverseTest {
     private void reverseArray() throws Exception {
         int[] inputNumbers = {1, 2, 3, 4, 5, 6};
         DO1_ArrayReverse.reverseArray(inputNumbers);
+
         int[] outputNumbers = {6, 5, 4, 3, 2, 1};
-        assertArrayEquals(inputNumbers, outputNumbers, "success");
+        assertArrayEquals(outputNumbers, inputNumbers,"success");
     }
 }

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91e0ca2e-06c0-49bb-9509-7b174fda8fa3" name="Default" comment="" />
+    <list default="true" id="91e0ca2e-06c0-49bb-9509-7b174fda8fa3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DO1_ArrayReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DO1_ArrayReverseTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,14 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DO1_ArrayReverseTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DO1_ArrayReverseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="48">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -50,8 +63,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ArrayReverse.java" />
-        <option value="$PROJECT_DIR$/src/DO1_ArrayReverseTest.java" />
         <option value="$PROJECT_DIR$/src/DO1_ArrayReverse.java" />
+        <option value="$PROJECT_DIR$/src/DO1_ArrayReverseTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -246,9 +260,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DO1_ArrayReverseTest - 2018.07.09 at 18h 10m 42s.xml">
-      <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DO1_ArrayReverseTest - 2018.07.09 at 18h 11m 03s.xml">
       <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
     </history-entry>
@@ -273,9 +284,16 @@
     <history-entry file="DO1_ArrayReverseTest - 2018.07.09 at 22h 04m 06s.xml">
       <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DO1_ArrayReverseTest - 2018.07.09 at 22h 07m 58s.xml">
+      <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DO1_ArrayReverseTest - 2018.07.09 at 22h 09m 05s.xml">
+      <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -358,11 +376,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
