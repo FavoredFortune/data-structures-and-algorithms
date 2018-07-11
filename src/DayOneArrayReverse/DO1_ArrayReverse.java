@@ -1,3 +1,5 @@
+package DayOneArrayReverse;
+
 public class DO1_ArrayReverse {
     public static void main(String[] args) {
     }
