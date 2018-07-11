@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="91e0ca2e-06c0-49bb-9509-7b174fda8fa3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/D01_ArrayReverseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DO1_ArrayReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayReverse/DO1_ArrayReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DO1_ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DO1_ArrayReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DO1_ArrayReverseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DO1_ArrayReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DO1_ArrayReverseTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,31 +18,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="DO1_ArrayReverse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DO1_ArrayReverseTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="39" column="221" selection-start-line="39" selection-start-column="221" selection-end-line="39" selection-end-column="221" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="192">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayShift.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="757">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,8 +52,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,15 +64,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ArrayReverse.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/DO1_ArrayReverse.java" />
         <option value="$PROJECT_DIR$/src/DO1_ArrayReverseTest.java" />
+        <option value="$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/DayTwoArrayShift/README.md" />
+        <option value="$PROJECT_DIR$/src/DayTwoArrayShift/insertShiftArray.java" />
+        <option value="$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="262" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1048" />
     <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -84,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,12 +100,25 @@
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DayOneArrayReverse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DayTwoArrayShift" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +150,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DO1_ArrayReverseTest">
+  <component name="RunManager" selected="Application.ArrayShift">
+    <configuration name="ArrayShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayTwoArrayShift.ArrayShift" />
+      <module name="ArrayReverse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DayTwoArrayShift.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="DO1_ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayOneArrayReverse.DO1_ArrayReverse" />
       <module name="ArrayReverse" />
@@ -237,9 +264,11 @@
       <item itemvalue="JUnit.DO1_ArrayReverseTest" />
       <item itemvalue="JUnit.ArrayReverseTest" />
       <item itemvalue="JUnit.D01_ArrayReverseTest" />
+      <item itemvalue="Application.ArrayShift" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayShift" />
         <item itemvalue="JUnit.DO1_ArrayReverseTest" />
         <item itemvalue="Application.DO1_ArrayReverse" />
         <item itemvalue="JUnit.D01_ArrayReverseTest" />
@@ -261,12 +290,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DO1_ArrayReverseTest - 2018.07.10 at 09h 42m 11s.xml">
-      <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DO1_ArrayReverseTest - 2018.07.10 at 09h 42m 27s.xml">
-      <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DO1_ArrayReverseTest - 2018.07.10 at 09h 45m 41s.xml">
       <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
     </history-entry>
@@ -291,14 +314,20 @@
     <history-entry file="DO1_ArrayReverseTest - 2018.07.10 at 10h 34m 56s.xml">
       <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DO1_ArrayReverseTest - 2018.07.10 at 17h 37m 36s.xml">
+      <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DO1_ArrayReverseTest - 2018.07.10 at 17h 37m 42s.xml">
+      <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
+    <frame x="262" y="23" width="1048" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3275862" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3275862" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -309,7 +338,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17291667" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.001908397" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -323,7 +353,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
@@ -331,29 +360,29 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.328877" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info id="Image Layers" order="0" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.328877" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="6" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1736111" />
       <window_info id="Learn" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Image Layers" order="0" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.328877" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1736111" />
+      <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -365,14 +394,38 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="221" selection-start-line="39" selection-start-column="221" selection-end-line="39" selection-end-column="221" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -389,14 +442,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -413,14 +466,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -437,27 +490,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="119" selection-start-line="4" selection-start-column="119" selection-end-line="4" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayReverse.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="120">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="39" column="221" selection-start-line="39" selection-start-column="221" selection-end-line="39" selection-end-column="221" />
+        <state relative-caret-position="757">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
