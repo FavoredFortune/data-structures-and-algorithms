@@ -136,7 +136,7 @@
   </component>
   <component name="RunManager" selected="JUnit.DO1_ArrayReverseTest">
     <configuration name="DO1_ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DO1_ArrayReverse" />
+      <option name="MAIN_CLASS_NAME" value="DayOneArrayReverse.DO1_ArrayReverse" />
       <module name="ArrayReverse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -181,8 +181,8 @@
       <module name="ArrayReverse" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DO1_ArrayReverseTest" />
+      <option name="PACKAGE_NAME" value="DayOneArrayReverse" />
+      <option name="MAIN_CLASS_NAME" value="DayOneArrayReverse.DO1_ArrayReverseTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
