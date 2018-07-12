@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91e0ca2e-06c0-49bb-9509-7b174fda8fa3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java" afterDir="false" />
-    </list>
+    <list default="true" id="91e0ca2e-06c0-49bb-9509-7b174fda8fa3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="ArrayShiftTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShiftTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="420">
+              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -295,9 +293,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 10h 56m 44s.xml">
-      <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 02m 05s.xml">
       <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
     </history-entry>
@@ -325,6 +320,9 @@
     <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 08m 54s.xml">
       <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 11m 16s.xml">
+      <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="262" y="23" width="1048" height="828" extended-state="0" />
@@ -338,7 +336,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3269494" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3269494" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -572,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="420">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
