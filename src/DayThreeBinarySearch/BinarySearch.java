@@ -2,50 +2,35 @@ package DayThreeBinarySearch;
 
 public class BinarySearch {
     public static void main(String[] args) {
-        int[] sortedArray = {4, 8, 15, 16, 23, 42};
-        int key = 15;
-        searchArray(sortedArray, key);
     }
 
+    //after whiteboarding out the problem with Travis and David this morning,
+    //much better understanding of the problem
+
+    //this method is meant to return the index of an array where an array value = the key (search term)
+    //if there is no match, this program must return -1
     public static int searchArray(int[] sortedArray, int key) {
-        int m = sortedArray.length / 2;
-        for (int i = 0; i < m; i++) {
-            if (sortedArray[i] == key) {
-                return i;
-            } else if (sortedArray[i] < key) {
-                int k = i / 2 + 1;
-                for (int j = 0; j < k; j++) {
-                    if (sortedArray[j] != key) {
-                        return -1;
-                    } else if (sortedArray[j] > key) {
-                        return -1;
-                    } else if(sortedArray[j] != key) {
-                        return j;
-                    }
-                }
-            }                   searchHelperRight(m, sortedArray, key);
-        }     return 0;
-    }
+        int startArray = 0;
+        int endArray = sortedArray.length - 1;
 
+        //find the middle index of the array
+        int middle = (int) Math.floor((endArray + startArray) / 2);
 
-    public static int searchHelperRight(int rr, int[] sortedArray, int key) {
-        int e = (sortedArray.length - 1) - rr;
-        for (int i = rr; i > e; i++) {
-            if (sortedArray[i] == key) {
-                return i;
-            } else if (sortedArray[i] > key) {
-                rr = i * 2;
-                for (int q = 0; q < rr; q++) {
-                    if (sortedArray[q] == key) {
-                        return q;
-                    } else {
-                        return -1;
-                    }
-                }
+        while (startArray < endArray) {
+            if (sortedArray[startArray] == key) {
+                return key;
+            } else if (sortedArray[startArray] < middle) {
+                middle = (int) Math.floor((startArray + middle) / 2);
+                startArray++;
+                //testing each step of the while loop - comment in to run without the test file
+//                System.out.println("(less than test) incremental value of index is currently: " + startArray);
+            } else if (sortedArray[startArray] > middle) {
+                startArray = (int) Math.floor((middle + endArray) / 2);
+                middle--;
+                //testing each step of the while loop - comment in to run without the test file
+//                System.out.println("(greater than test) incremental value of index is currently: " + startArray);
             }
-
         }
-        return 0;
+        return -1;
     }
 }
-
