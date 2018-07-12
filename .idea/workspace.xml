@@ -3,11 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="91e0ca2e-06c0-49bb-9509-7b174fda8fa3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayThreeBinarySearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayReverse/DayThreeBinarySearch/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayOneArrayReverse/DO1_ArrayReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayOneArrayReverse/DO1_ArrayReverseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayOneArrayReverse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayThreeBinarySearch/BinarySearch.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayThreeBinarySearch/BinarySearchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchHelperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayThreeBinarySearch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayTwoArrayShift/ArrayShift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayTwoArrayShift/ArrayShiftTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/DayTwoArrayShift/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayOneArrayReverse/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D01_ArrayReverse/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D03_BinarySearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D03_BinarySearch/BinarySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayThreeBinarySearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D03_BinarySearch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShiftTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayTwoArrayShift/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D02_ArrayShift/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +36,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ArrayShift.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java">
+        <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="648">
-              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,9 +48,9 @@
         </entry>
       </file>
       <file leaf-file-name="ArrayShiftTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShiftTest.java">
+        <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state relative-caret-position="744">
               <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,19 +60,19 @@
         </entry>
       </file>
       <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearch.java">
+        <entry file="file://$PROJECT_DIR$/src/D03_BinarySearch/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="29" column="95" selection-start-line="29" selection-start-column="95" selection-end-line="29" selection-end-column="95" />
+            <state relative-caret-position="322">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BinarySearchTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchTest.java">
+        <entry file="file://$PROJECT_DIR$/src/D03_BinarySearch/BinarySearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+            <state relative-caret-position="225">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,12 +110,14 @@
         <option value="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchHelperTest.java" />
         <option value="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchTest.java" />
         <option value="$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/D03_BinarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/D03_BinarySearch/BinarySearchTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="30" />
-    <option name="y" value="22" />
+    <option name="y" value="23" />
     <option name="width" value="1379" />
     <option name="height" value="828" />
   </component>
@@ -114,7 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,20 +146,14 @@
               <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DayThreeBinarySearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DayTwoArrayShift" type="462c0819:PsiDirectoryNode" />
+              <item name="D03_BinarySearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,6 +163,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -184,25 +194,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="ArrayShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayTwoArrayShift.ArrayShift" />
-      <module name="ArrayReverse" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DayTwoArrayShift.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.BinarySearchTest">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayThreeBinarySearch.BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="D03_BinarySearch.BinarySearch" />
       <module name="ArrayReverse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DayThreeBinarySearch.*" />
+          <option name="PATTERN" value="D03_BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,14 +213,14 @@
       <module name="ArrayReverse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DayTwoArrayShift.*" />
+          <option name="PATTERN" value="D02_ArrayShift.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="DayTwoArrayShift" />
-      <option name="MAIN_CLASS_NAME" value="DayTwoArrayShift.ArrayShiftTest" />
+      <option name="PACKAGE_NAME" value="D02_ArrayShift" />
+      <option name="MAIN_CLASS_NAME" value="D02_ArrayShift.ArrayShiftTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -237,16 +236,39 @@
       <module name="ArrayReverse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DayTwoArrayShift.*" />
+          <option name="PATTERN" value="D02_ArrayShift.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="DayTwoArrayShift" />
-      <option name="MAIN_CLASS_NAME" value="DayTwoArrayShift.ArrayShiftTest" />
+      <option name="PACKAGE_NAME" value="D02_ArrayShift" />
+      <option name="MAIN_CLASS_NAME" value="D02_ArrayShift.ArrayShiftTest" />
       <option name="METHOD_NAME" value="shiftArrayTest" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArrayReverse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D03_BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="D03_BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="D03_BinarySearch.BinarySearchTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -260,14 +282,14 @@
       <module name="ArrayReverse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DayThreeBinarySearch.*" />
+          <option name="PATTERN" value="D03_BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="DayThreeBinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="DayThreeBinarySearch.BinarySearchTest" />
+      <option name="PACKAGE_NAME" value="D03_BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="D03_BinarySearch.BinarySearchTest" />
       <option name="METHOD_NAME" value="searchArray" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -318,19 +340,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayShift" />
       <item itemvalue="JUnit.ArrayShiftTest.shiftArrayTest" />
       <item itemvalue="JUnit.ArrayShiftTest" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="JUnit.BinarySearchTest.searchArray" />
+      <item itemvalue="JUnit.BinarySearchTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinarySearchTest" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="JUnit.BinarySearchTest.searchArray" />
         <item itemvalue="JUnit.ArrayShiftTest.shiftArrayTest" />
         <item itemvalue="JUnit.ArrayShiftTest" />
-        <item itemvalue="Application.ArrayShift" />
       </list>
     </recent_temporary>
   </component>
@@ -348,24 +370,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 02m 05s.xml">
-      <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 02m 19s.xml">
-      <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 03m 07s.xml">
-      <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 03m 37s.xml">
-      <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 04m 17s.xml">
-      <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 04m 57s.xml">
-      <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 07m 23s.xml">
       <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
     </history-entry>
@@ -378,9 +382,27 @@
     <history-entry file="ArrayShiftTest_shiftArrayTest - 2018.07.11 at 11h 11m 16s.xml">
       <configuration name="ArrayShiftTest.shiftArrayTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BinarySearchTest - 2018.07.12 at 13h 22m 35s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTest - 2018.07.12 at 13h 23m 19s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTest - 2018.07.12 at 13h 25m 12s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTest - 2018.07.12 at 13h 25m 56s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTest - 2018.07.12 at 13h 28m 55s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTest - 2018.07.12 at 13h 31m 28s.xml">
+      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="22" width="1379" height="828" extended-state="0" />
+    <frame x="30" y="23" width="1379" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -391,12 +413,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32627118" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32627118" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49501246" visible="true" weight="0.2528048" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49501246" visible="true" weight="0.2565445" />
       <window_info id="Learn" order="2" sideWeight="0.49875313" weight="0.3297568" />
       <window_info id="Structure" order="1" sideWeight="0.50498754" side_tool="true" weight="0.0014306152" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -416,17 +438,17 @@
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.328877" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1736111" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.328877" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.328877" />
       <window_info id="Designer" order="1" />
-      <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info id="Learn" order="3" />
@@ -437,7 +459,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info id="Image Layers" order="0" />
       <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.328877" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -452,7 +474,44 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D03_BinarySearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="95" selection-start-line="29" selection-start-column="95" selection-end-line="29" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D03_BinarySearch/BinarySearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
@@ -462,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShiftTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
@@ -472,14 +531,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/D03_BinarySearch/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
@@ -489,7 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShiftTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
@@ -499,21 +558,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/README.md">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
@@ -523,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
@@ -537,21 +596,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
           <caret line="39" column="221" selection-start-line="39" selection-start-column="221" selection-end-line="39" selection-end-column="221" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -565,14 +624,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -586,14 +645,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -614,14 +673,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/README.md">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
@@ -631,33 +690,33 @@
     <entry file="file://$PROJECT_DIR$/ArrayReverse.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/README.md">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayOneArrayReverse/DO1_ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShift.java">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayTwoArrayShift/ArrayShiftTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state relative-caret-position="744">
           <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -665,34 +724,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayThreeBinarySearch/README.md">
+    <entry file="file://$PROJECT_DIR$/src/D03_BinarySearch/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchHelperTest.java">
+    <entry file="file://$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchHelperTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/D03_BinarySearch/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="322">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/D03_BinarySearch/BinarySearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="95" selection-start-line="29" selection-start-column="95" selection-end-line="29" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayThreeBinarySearch/BinarySearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+        <state relative-caret-position="225">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

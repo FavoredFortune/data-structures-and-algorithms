@@ -1,4 +1,4 @@
-package DayThreeBinarySearch;
+package D03_BinarySearch;
 
 public class BinarySearch {
     public static void main(String[] args) {
@@ -17,16 +17,16 @@ public class BinarySearch {
         int middle = (int) Math.floor((endArray + startArray) / 2);
 
         while (startArray < endArray) {
-            if (sortedArray[startArray] == key) {
-                return key;
-            } else if (sortedArray[startArray] < middle) {
+            if (sortedArray[middle] == key) {
+                return middle;
+            } else if (sortedArray[middle] < key) {
                 middle = (int) Math.floor((startArray + middle) / 2);
                 startArray++;
                 //testing each step of the while loop - comment in to run without the test file
 //                System.out.println("(less than test) incremental value of index is currently: " + startArray);
-            } else if (sortedArray[startArray] > middle) {
+            } else if (sortedArray[middle] > key) {
                 startArray = (int) Math.floor((middle + endArray) / 2);
-                middle--;
+                middle++;
                 //testing each step of the while loop - comment in to run without the test file
 //                System.out.println("(greater than test) incremental value of index is currently: " + startArray);
             }

@@ -1,4 +1,4 @@
-package DayThreeBinarySearch;
+package D03_BinarySearch;
 
 import org.junit.jupiter.api.Test;
 
@@ -8,9 +8,9 @@ class BinarySearchTest {
 
     // testing empty array to make sure false result works
     @Test
-    void searchArrayEmpty() {
-        int[] sortedArray = {};
-        int key = sortedArray[0];
+    void searchArray0() {
+        int[] sortedArray = {1,3,8};
+        int key = 9;
         int expected = -1;
         int actual = BinarySearch.searchArray(sortedArray, key);
 
