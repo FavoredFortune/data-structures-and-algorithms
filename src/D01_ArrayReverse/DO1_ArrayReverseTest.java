@@ -1,4 +1,4 @@
-package DayOneArrayReverse;
+package D01_ArrayReverse;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
