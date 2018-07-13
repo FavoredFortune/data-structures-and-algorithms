@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="91e0ca2e-06c0-49bb-9509-7b174fda8fa3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayReverse/D04_AdjecentProduct/AdjacentProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayReverse/D04_AdjecentProduct/AdjacentProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProductTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,8 +65,13 @@
       <file leaf-file-name="AdjacentProduct.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+            <state relative-caret-position="1866">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#914#1006#0" />
+                <element signature="e#1264#1325#0" />
+                <element signature="e#1906#1963#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,8 +79,8 @@
       <file leaf-file-name="AdjacentProductTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProductTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+            <state relative-caret-position="45">
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,6 +154,11 @@
             <path>
               <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -173,6 +186,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
   </component>
   <component name="RecentsManager">
@@ -201,8 +215,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AdjacentProductTest.greatestValue1">
-    <configuration name="AdjacentProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AdjacentProductTest">
+    <configuration name="AdjacentProduct" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProduct" />
       <module name="ArrayReverse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -239,29 +253,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AdjacentProductTest.greatestValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ArrayReverse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="D04_AdjecentProduct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="D04_AdjecentProduct" />
-      <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="greatestValue" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="AdjacentProductTest.greatestValue1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArrayReverse" />
       <extension name="coverage">
@@ -285,7 +276,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AdjacentProductTest.largestProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AdjacentProductTest.largestProduct1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArrayReverse" />
       <extension name="coverage">
         <pattern>
@@ -297,7 +288,53 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="D04_AdjecentProduct" />
       <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="largestProduct" />
+      <option name="METHOD_NAME" value="largestProduct1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AdjacentProductTest.largestProduct2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArrayReverse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D04_AdjecentProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="D04_AdjecentProduct" />
+      <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProductTest" />
+      <option name="METHOD_NAME" value="largestProduct2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AdjacentProductTest.largestProduct3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArrayReverse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D04_AdjecentProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="D04_AdjecentProduct" />
+      <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProductTest" />
+      <option name="METHOD_NAME" value="largestProduct3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -348,18 +385,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.AdjacentProduct" />
-      <item itemvalue="JUnit.AdjacentProductTest.largestProduct" />
-      <item itemvalue="JUnit.AdjacentProductTest" />
-      <item itemvalue="JUnit.AdjacentProductTest.greatestValue" />
+      <item itemvalue="JUnit.AdjacentProductTest.largestProduct1" />
+      <item itemvalue="JUnit.AdjacentProductTest.largestProduct2" />
+      <item itemvalue="JUnit.AdjacentProductTest.largestProduct3" />
       <item itemvalue="JUnit.AdjacentProductTest.greatestValue1" />
+      <item itemvalue="JUnit.AdjacentProductTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AdjacentProductTest.greatestValue1" />
-        <item itemvalue="JUnit.AdjacentProductTest.greatestValue" />
         <item itemvalue="JUnit.AdjacentProductTest" />
-        <item itemvalue="Application.AdjacentProduct" />
-        <item itemvalue="JUnit.AdjacentProductTest.largestProduct" />
+        <item itemvalue="JUnit.AdjacentProductTest.greatestValue1" />
+        <item itemvalue="JUnit.AdjacentProductTest.largestProduct3" />
+        <item itemvalue="JUnit.AdjacentProductTest.largestProduct2" />
+        <item itemvalue="JUnit.AdjacentProductTest.largestProduct1" />
       </list>
     </recent_temporary>
   </component>
@@ -377,39 +415,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinarySearchTest - 2018.07.12 at 13h 31m 28s.xml">
-      <configuration name="BinarySearchTest" configurationId="JUnit" />
+    <history-entry file="AdjacentProductTest_greatestValue3 - 2018.07.13 at 10h 56m 07s.xml">
+      <configuration name="AdjacentProductTest.greatestValue3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct - 2018.07.12 at 22h 22m 24s.xml">
-      <configuration name="AdjacentProductTest.largestProduct" configurationId="JUnit" />
+    <history-entry file="AdjacentProductTest_greatestValue3 - 2018.07.13 at 10h 56m 25s.xml">
+      <configuration name="AdjacentProductTest.greatestValue3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct1 - 2018.07.12 at 22h 23m 59s.xml">
+    <history-entry file="AdjacentProductTest_largestProduct1 - 2018.07.13 at 10h 58m 43s.xml">
       <configuration name="AdjacentProductTest.largestProduct1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct - 2018.07.12 at 22h 31m 51s.xml">
+    <history-entry file="AdjacentProductTest_largestProduct1 - 2018.07.13 at 11h 14m 50s.xml">
+      <configuration name="AdjacentProductTest.largestProduct1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdjacentProductTest_largestProduct1 - 2018.07.13 at 11h 14m 59s.xml">
+      <configuration name="AdjacentProductTest.largestProduct1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdjacentProductTest_largestProduct - 2018.07.13 at 11h 15m 31s.xml">
       <configuration name="AdjacentProductTest.largestProduct" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacentProductTest - 2018.07.12 at 22h 32m 49s.xml">
-      <configuration name="AdjacentProductTest" configurationId="JUnit" />
+    <history-entry file="AdjacentProductTest_largestProduct1 - 2018.07.13 at 11h 16m 00s.xml">
+      <configuration name="AdjacentProductTest.largestProduct1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacentProductTest - 2018.07.12 at 22h 41m 22s.xml">
-      <configuration name="AdjacentProductTest" configurationId="JUnit" />
+    <history-entry file="AdjacentProductTest_largestProduct2 - 2018.07.13 at 11h 16m 46s.xml">
+      <configuration name="AdjacentProductTest.largestProduct2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacentProductTest - 2018.07.12 at 22h 50m 02s.xml">
-      <configuration name="AdjacentProductTest" configurationId="JUnit" />
+    <history-entry file="AdjacentProductTest_largestProduct2 - 2018.07.13 at 11h 17m 12s.xml">
+      <configuration name="AdjacentProductTest.largestProduct2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacentProductTest_greatestValue - 2018.07.12 at 22h 54m 48s.xml">
-      <configuration name="AdjacentProductTest.greatestValue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_greatestValue - 2018.07.12 at 22h 56m 53s.xml">
-      <configuration name="AdjacentProductTest.greatestValue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_greatestValue1 - 2018.07.12 at 22h 57m 23s.xml">
-      <configuration name="AdjacentProductTest.greatestValue1" configurationId="JUnit" />
+    <history-entry file="AdjacentProductTest_largestProduct2 - 2018.07.13 at 11h 18m 50s.xml">
+      <configuration name="AdjacentProductTest.largestProduct2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1408" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -431,7 +470,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
       <window_info id="Favorites" order="2" sideWeight="0.50498754" side_tool="true" weight="0.0014306152" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -476,7 +515,27 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProduct.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProduct.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProduct.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -742,15 +801,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        <state relative-caret-position="1866">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#914#1006#0" />
+            <element signature="e#1264#1325#0" />
+            <element signature="e#1906#1963#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="85" column="26" lean-forward="true" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        <state relative-caret-position="45">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
