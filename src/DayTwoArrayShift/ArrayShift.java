@@ -11,7 +11,7 @@ public class ArrayShift {
 
     public static int[] shiftArray(int[] array, int[] newArrayValue) {
         int[] shiftedArray = new int[array.length + 1];
-        double halfArray = array.length / 2;
+        double halfArray = shiftedArray.length / 2;
         double midArrayPoint = Math.ceil(halfArray + 1);
         System.out.println("this is the middle index value where the new array value will appear in the shifted array: " + midArrayPoint);
 
