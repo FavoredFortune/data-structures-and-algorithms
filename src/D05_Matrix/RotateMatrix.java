@@ -6,14 +6,20 @@ public class RotateMatrix {
     public static void main(String[] args) {
 
         //in program test values
+//        int[][] matrix = {
+//                {1, 1, 1},
+//                {2, 2, 2},
+//                {3, 3, 3}
+//        };
+//
+        //second in program test values
         int[][] matrix = {
-                {1, 1,1},
-                {2, 2, 2},
-                {3, 3, 3}
+                {3, 2, 1},
+                {3, 2, 1},
+                {3, 2, 1}
         };
-        System.out.println("There will be three reassignments of values to new indicies to rotate this below by 90 " +
-                "degrees clockwise.\n" + Arrays
-                .deepToString(matrix));
+        System.out.println("\nThere will be three reassignments of values to new indicies to rotate matrix by 90 " +
+                "degrees clockwise.\n" + Arrays.deepToString(matrix) + ".\n");
 
         //variable to hold rotated sub-arrays temporarily
         int[] tempRow = new int[3];
@@ -36,32 +42,28 @@ public class RotateMatrix {
 
         //middle row is rearranged to account for column/row rotation of 90 degrees
         tempRow = new int []{
-                
+                matrix[2][1],
+                matrix[1][1],
+                matrix[0][1],
+        };
 
-        }
-
-
-        //assigns new temporary row to the the second row/array in the final rotated matrix
+        //assigns new temporary row to the 1 index row of the final rotated matrix
         rotatedMatrix[1] = tempRow;
 
-        System.out.println("The rotating matrix is now done with move 2. Here's the temporary second column: " +
-                Arrays.toString(rotatedMatrix[][2]) + ". \n");
+        System.out.println("The rotating matrix is now done with move 2. Here's the temporary middle row: " +
+                Arrays.toString(rotatedMatrix[1]) + ". \n");
 
         //right column becomes bottom row
-        tempRow = new int[] {
+        tempRow = new int[]{
                 matrix[2][2],
                 matrix[1][2],
                 matrix[0][2]
         };
 
-        System.out.println("The rotating matrix is now done with move 3. Here's the temporary matrix:"
-                + Arrays.deepToString(rotatedMatrix) + " . \n");
+        //assigns new temporary row to the 2 index row of the final rotated matrix
+        rotatedMatrix[2] = tempRow;
 
-        //bottom row becomes left column
-        rotatedMatrix[0][0] = matrix[2][0];
-        rotatedMatrix[0][1] = matrix[2][1];
-        rotatedMatrix[0][2] = matrix[2][1];
-        System.out.println("The rotating matrix is now done with move 4. Here's the final rotated matrix: " + Arrays
-                .deepToString(rotatedMatrix));
+        System.out.println("The rotating matrix is now done moving . Here's the final rotated matrix: "
+                + Arrays.deepToString(rotatedMatrix) + " .");
     }
 }
