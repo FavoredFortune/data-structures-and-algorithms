@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e0ca2e-06c0-49bb-9509-7b174fda8fa3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,12 +22,24 @@
     <favorites_list name="ArrayReverse" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RotateMatrix.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ArrayShift.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="121">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayShiftTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,12 +87,15 @@
         <option value="$PROJECT_DIR$/src/D05_Matrix/README.md" />
         <option value="$PROJECT_DIR$/src/D05_Fibonacci/README.md" />
         <option value="$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java" />
+        <option value="$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java" />
+        <option value="$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1408" />
+    <option name="x" value="498" />
+    <option name="y" value="26" />
+    <option name="width" value="858" />
     <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -111,27 +127,15 @@
               <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D04_AdjecentProduct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D05_Fibonacci" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArrayReverse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D05_Matrix" type="462c0819:PsiDirectoryNode" />
+              <item name="D02_ArrayShift" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateMatrix">
+  <component name="RunManager" selected="JUnit.ArrayShiftTest">
     <configuration name="AdjacentProduct" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProduct" />
       <module name="ArrayReverse" />
@@ -188,6 +192,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="D04_AdjecentProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ArrayShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D02_ArrayShift.ArrayShift" />
+      <module name="ArrayReverse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D02_ArrayShift.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,20 +244,20 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AdjacentProductTest.greatestValue1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayShiftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArrayReverse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D04_AdjecentProduct.*" />
+          <option name="PATTERN" value="D02_ArrayShift.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="D04_AdjecentProduct" />
-      <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="greatestValue1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="D02_ArrayShift" />
+      <option name="MAIN_CLASS_NAME" value="D02_ArrayShift.ArrayShiftTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -252,42 +267,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AdjacentProductTest.largestProduct2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayShiftTest.shiftArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ArrayReverse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D04_AdjecentProduct.*" />
+          <option name="PATTERN" value="D02_ArrayShift.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="D04_AdjecentProduct" />
-      <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="largestProduct2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="AdjacentProductTest.largestProduct3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ArrayReverse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="D04_AdjecentProduct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="D04_AdjecentProduct" />
-      <option name="MAIN_CLASS_NAME" value="D04_AdjecentProduct.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="largestProduct3" />
+      <option name="PACKAGE_NAME" value="D02_ArrayShift" />
+      <option name="MAIN_CLASS_NAME" value="D02_ArrayShift.ArrayShiftTest" />
+      <option name="METHOD_NAME" value="shiftArrayTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -338,19 +330,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.AdjacentProduct" />
-      <item itemvalue="JUnit.AdjacentProductTest.largestProduct2" />
-      <item itemvalue="JUnit.AdjacentProductTest.largestProduct3" />
-      <item itemvalue="JUnit.AdjacentProductTest.greatestValue1" />
       <item itemvalue="JUnit.AdjacentProductTest" />
       <item itemvalue="Application.RotateMatrix" />
+      <item itemvalue="Application.ArrayShift" />
+      <item itemvalue="JUnit.ArrayShiftTest" />
+      <item itemvalue="JUnit.ArrayShiftTest.shiftArrayTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayShiftTest" />
+        <item itemvalue="JUnit.ArrayShiftTest.shiftArrayTest" />
+        <item itemvalue="Application.ArrayShift" />
         <item itemvalue="Application.RotateMatrix" />
         <item itemvalue="JUnit.AdjacentProductTest" />
-        <item itemvalue="JUnit.AdjacentProductTest.greatestValue1" />
-        <item itemvalue="JUnit.AdjacentProductTest.largestProduct3" />
-        <item itemvalue="JUnit.AdjacentProductTest.largestProduct2" />
       </list>
     </recent_temporary>
   </component>
@@ -368,21 +360,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdjacentProductTest_largestProduct1 - 2018.07.13 at 11h 14m 59s.xml">
-      <configuration name="AdjacentProductTest.largestProduct1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct - 2018.07.13 at 11h 15m 31s.xml">
-      <configuration name="AdjacentProductTest.largestProduct" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct1 - 2018.07.13 at 11h 16m 00s.xml">
-      <configuration name="AdjacentProductTest.largestProduct1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct2 - 2018.07.13 at 11h 16m 46s.xml">
-      <configuration name="AdjacentProductTest.largestProduct2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct2 - 2018.07.13 at 11h 17m 12s.xml">
-      <configuration name="AdjacentProductTest.largestProduct2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AdjacentProductTest_largestProduct2 - 2018.07.13 at 11h 18m 50s.xml">
       <configuration name="AdjacentProductTest.largestProduct2" configurationId="JUnit" />
     </history-entry>
@@ -398,10 +375,24 @@
     <history-entry file="AdjacentProductTest - 2018.07.13 at 13h 46m 38s.xml">
       <configuration name="AdjacentProductTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 58m 17s.xml">
+      <configuration name="ArrayShiftTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 58m 36s.xml">
+      <configuration name="ArrayShiftTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 59m 45s.xml">
+      <configuration name="ArrayShiftTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayShiftTest - 2018.07.14 at 16h 04m 18s.xml">
+      <configuration name="ArrayShiftTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayShiftTest - 2018.07.14 at 16h 06m 23s.xml">
+      <configuration name="ArrayShiftTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1408" height="828" extended-state="0" />
-    <editor active="true" />
+    <frame x="498" y="26" width="858" height="828" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -411,21 +402,21 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32627118" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32627118" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.329429" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49501246" visible="true" weight="0.22327965" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49501246" visible="true" weight="0.04779412" />
       <window_info id="Learn" order="2" sideWeight="0.49875313" weight="0.3297568" />
       <window_info id="Structure" order="1" sideWeight="0.50498754" side_tool="true" weight="0.0014306152" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997175" />
       <window_info id="Favorites" order="2" sideWeight="0.50498754" side_tool="true" weight="0.0014306152" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.329429" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.328877" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -437,15 +428,15 @@
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.328877" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1736111" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.328877" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.328877" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
@@ -455,11 +446,11 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
       <window_info id="Image Layers" order="0" />
+      <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.328877" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
@@ -482,11 +473,31 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -774,13 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/D05_Fibonacci/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -825,10 +829,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="51" column="133" selection-start-line="51" selection-start-column="133" selection-end-line="51" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="126">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -837,15 +862,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="121">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
