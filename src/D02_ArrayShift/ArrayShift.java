@@ -1,7 +1,5 @@
-package DayTwoArrayShift;
+package D02_ArrayShift;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class ArrayShift {
