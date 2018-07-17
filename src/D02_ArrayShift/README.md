@@ -9,5 +9,7 @@ See summary above under Shift on Array
 
 ## Solution
 In this challenge we didn't write on a whiteboard, but rather created this in the IDE.
-I also built a test that properly tests the function for several uses cases.
+
+I also built a test that properly tests the function for several uses cases. all tests passed!
+
 

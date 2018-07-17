@@ -13,8 +13,8 @@ public class ArrayShift {
         double midArrayPoint = Math.ceil(halfArray);
         System.out.println("this is the middle index value where the new array value will appear in the shifted array: " + midArrayPoint);
 
-        for (int i = 0; i < (shiftedArray.length); i++) {
-//            System.out.println("i: " + i + " m: " + midArrayPoint + " i == m: " + (i == midArrayPoint));
+
+        for (int i =0; i < (shiftedArray.length); i++) {
             if (i < midArrayPoint) {
                 shiftedArray[i] =array[i];
             } else if (i == midArrayPoint) {
