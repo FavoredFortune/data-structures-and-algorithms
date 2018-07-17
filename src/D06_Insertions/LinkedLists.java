@@ -5,16 +5,13 @@ public class LinkedLists {
     ListNode data;
     ListNode next;
 
-
-    public LinkedLists() {
+    public LinkedList() {
         this.root = null;
     }
-
-
-    public void append (int data){
-        ListNode newEndList = new ListNode(data);
-        newSize = newEndList.size() +1;
-        newEndList.next = newSize;
+    public void prepend(int data) {
+        ListNode newNode = new ListNode(data);
+        newNode.next = this.root;
+        this.root = nn;
     }
 
     public boolean isEmpty() {
@@ -33,11 +30,11 @@ public class LinkedLists {
     }
 
     public int get(int index) {
-        int n = 0;
+        int new = 0;
         ListNode current = this.root;
 
-        while (n < index) {
-            n++;
+        while (new < index) {
+            new++;
             current = current.next;
         }
         return current.data;
