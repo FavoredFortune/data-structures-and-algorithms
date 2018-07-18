@@ -30,7 +30,23 @@ NOTE: You can find an example of this configuration for your course in your clas
 Feature Tasks
 Write a method for the Linked List class which takes a number, k, as a parameter. Return the node that is k from the end of the linked list. You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges. ​
 Example
-​ example ​
+.append(value)
+Input	Args	Output
+head -> [1] -> [3] -> [2] -> X	5	head -> [1] -> [3] -> [2] -> [5] -> X
+head -> X	1	head -> [1] -> X
+.insertBefore(value, newVal)
+Input	Args	Output
+head -> [1] -> [3] -> [2] -> X	3, 5	head -> [1] -> [5] -> [3] -> [2] -> X
+head -> [1] -> [3] -> [2] -> X	1, 5	head -> [5] -> [1] -> [3] -> [2] -> X
+head -> [1] -> [2] -> [2] -> X	2, 5	head -> [1] -> [5] -> [2] -> [2] -> X
+head -> [1] -> [3] -> [2] -> X	4, 5	Exception
+.insertAfter(value, newVal)
+Input	Args	Output
+head -> [1] -> [3] -> [2] -> X	3, 5	head -> [1] -> [3] -> [5] -> [2] -> X
+head -> [1] -> [3] -> [2] -> X	2, 5	head -> [1] -> [3] -> [2] -> [5] -> X
+head -> [1] -> [2] -> [2] -> X	2, 5	head -> [1] -> [2] -> [5] -> [2] -> X
+head -> [1] -> [3] -> [2] -> X	4, 5	Exception
+
 
 Structure and Testing
 ​ Utilize the Single-responsibility principle: any methods you write should be clean, reusable, abstract component parts to the whole challenge. You will be given feedback and marked down if you attempt to define a large, complex algorithm in one function definition. ​ Write at least three test assertions for each method that you define. ​ Ensure your tests are passing before you submit your solution. ​
