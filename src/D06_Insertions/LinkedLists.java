@@ -1,5 +1,7 @@
 package D06_Insertions;
 
+import D09_HasLoop.HasLoop;
+
 //instantiate this parent class with properties to help manipulate linked lists for the insertion tasks
 public class LinkedLists {
     ListNode root;
