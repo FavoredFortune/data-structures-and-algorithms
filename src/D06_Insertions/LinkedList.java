@@ -3,15 +3,15 @@ package D06_Insertions;
 import D09_HasLoop.HasLoop;
 
 //instantiate this parent class with properties to help manipulate linked lists for the insertion tasks
-public class LinkedLists {
-    ListNode root;
+public class LinkedList {
+    public ListNode root;
 
     //establish that when a linked list is first created it is empty
-    public LinkedLists() {
+    public LinkedList() {
         this.root = null;
     }
 
-    //this method, as part of the LinkedLists class, helps to put a new value at the root of a linked list
+    //this method, as part of the LinkedList class, helps to put a new value at the root of a linked list
     public void  prepend (int value){
         ListNode node = new ListNode(value);
         node.next = this.root;
@@ -135,7 +135,5 @@ public class LinkedLists {
         newNodeValue.next = current.next;
         current.next = newNodeValue;
     }
-
-
 }
 

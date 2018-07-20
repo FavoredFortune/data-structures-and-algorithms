@@ -1,7 +1,7 @@
 package D06_Insertions;
 
 public class Insertion {
-    private ListNode root;
+    public ListNode root;
 
     public static void main(String[] args) {
     }

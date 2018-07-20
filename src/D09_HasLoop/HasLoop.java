@@ -1,20 +1,22 @@
 package D09_HasLoop;
 import D06_Insertions.*;
 
-    public class LinkedLists {
+public class HasLoop extends LinkedList {
+    public boolean hasLoop() {
+        ListNode pointerNodeA = this.root;
+        ListNode pointerNodeB = this.root;
 
-        public Boolean hasLoop() {
-//        LinkedLists testList = new LinkedLists();
-        ListNode pointerNodeA = new ListNode(0);
-        ListNode pointerNodeB = new ListNode(2);
+        boolean isLoop = false;
 
-        while (pointerNodeA.next != null) {
-            if (pointerNodeA.next == pointerNodeB.next) {
-               pointerNodeA = pointerNodeA.next.next;
-               pointerNodeB = pointerNodeB.next;
-                return true;
+        while (pointerNodeA!= null) {
+            if (pointerNodeA.next == pointerNodeB.next || pointerNodeA == pointerNodeB){
+                isLoop = true;
+               return isLoop;
             }
-        } return false;
+               pointerNodeA = pointerNodeA.next;
+               pointerNodeB = pointerNodeB.next.next;
+        }
+        return isLoop;
     }
 }
 
