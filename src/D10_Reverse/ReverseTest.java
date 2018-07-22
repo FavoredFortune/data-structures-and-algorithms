@@ -53,12 +53,12 @@ class ReverseTest {
 
     private LinkedList reverseLinkedList(LinkedList result) {
             ListNode previous = null;
-            ListNode current = root;
+            ListNode current = result.root;
             ListNode next = current.next;
 
             while (current !=null){
                 if(next == null){
-                    return list;
+                    return result;
                 }
                 current.next = previous;
                 previous = current;

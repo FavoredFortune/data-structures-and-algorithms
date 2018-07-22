@@ -88,7 +88,7 @@ public class LinkedList {
         }
         return total;
     }
-    public LinkedList reverseLinkedList(){
+    public LinkedList reverseLinkedList(LinkedList list){
          ListNode previous = null;
          ListNode current = root;
          ListNode next = current.next;
@@ -102,7 +102,7 @@ public class LinkedList {
             current = next;
             next = next.next;
         }
-        return;
+        return list;
     }
 
     //method that adds a new node with the given newValue immediately before the selected value
@@ -151,5 +151,29 @@ public class LinkedList {
         newNodeValue.next = current.next;
         current.next = newNodeValue;
     }
+
+    //adding here for testing
+    public ListNode kthElement(int k){
+        this.root = null;
+        ListNode current = this.root;
+
+        //count total number of nodes in Linked List
+        int total = 0;
+        while (current !=null){
+            total++;
+            current = current.next;
+        }
+        current = this.root;
+
+        //move through list again but stop with the count K nodes
+        // ahead from the counted total
+        int cycle = 0;
+        while (cycle != total -k){
+            current = current.next;
+            cycle++;
+        }
+        return current;
+    }
+
 }
 

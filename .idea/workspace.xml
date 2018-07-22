@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b570e7f0-0f4a-40e0-8af6-b7daece63849" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/D10_Reverse/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D10_Reverse/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D06_Insertions/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D06_Insertions/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D07_KthElement/KthElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D07_KthElement/KthElement.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,65 +30,26 @@
       <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D06_Insertions/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Insertion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D06_Insertions/Insertion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HasLoop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/HasLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="1" selection-start-line="1" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HasLoopTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/HasLoopTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-940">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D10_Reverse/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/D10_Reverse/Reverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="103" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D10_Reverse/ReverseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="667">
-              <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+              <caret line="176" selection-start-line="176" selection-end-line="176" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KthElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D07_KthElement/KthElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KthElementTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/D07_KthElement/KthElementTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,31 +57,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D06_Insertions/ListNode.java">
+      <file leaf-file-name="RotateMatrixTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrixTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayShiftTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="8" />
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="49" />
               <folding>
-                <element signature="e#0#204#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,6 +82,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>LinkedList</find>
+      <find>prepend</find>
     </findStrings>
     <replaceStrings>
       <replace>HasLoop</replace>
@@ -157,7 +103,6 @@
         <option value="$PROJECT_DIR$/src/D07_KthElement/README.md" />
         <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/README.md" />
         <option value="$PROJECT_DIR$/src/D09_HasLoop/hasLoop.java" />
-        <option value="$PROJECT_DIR$/src/D07_KthElement/KthElement.java" />
         <option value="$PROJECT_DIR$/src/D06_Insertions/LinkedLists.java" />
         <option value="$PROJECT_DIR$/src/D06_Insertions/Insertion.java" />
         <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergeLInkedLists.java" />
@@ -167,16 +112,18 @@
         <option value="$PROJECT_DIR$/src/D09_HasLoop/HasLoop.java" />
         <option value="$PROJECT_DIR$/src/D10_Reverse/README.md" />
         <option value="$PROJECT_DIR$/src/D06_Insertions/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/D06_Insertions/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/D10_Reverse/ReverseTest.java" />
         <option value="$PROJECT_DIR$/src/D10_Reverse/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/D07_KthElement/KthElement.java" />
+        <option value="$PROJECT_DIR$/src/D06_Insertions/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/D07_KthElement/KthElementTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
+    <option name="x" value="178" />
     <option name="y" value="23" />
-    <option name="width" value="1375" />
+    <option name="width" value="1227" />
     <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -208,7 +155,19 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="D05_Matrix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="D06_Insertions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="D07_KthElement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -226,9 +185,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,23 +202,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="D07_KthElement" />
       <recent name="D10_Reverse" />
       <recent name="D09_HasLoop" />
       <recent name="D06_Insertions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/D09_HasLoop" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="D06_Insertions.Insertion" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/D10_Reverse" />
       <recent name="$PROJECT_DIR$/src/D08_MergeLinkedLists" />
       <recent name="$PROJECT_DIR$/src/D07_KthElement" />
       <recent name="$PROJECT_DIR$/src/D06_Insertions" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-      <recent name="D06_Insertions.Insertion" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/D09_HasLoop" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,32 +234,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseTest.reverseLinkedList5Test">
+  <component name="RunManager" selected="JUnit.KthElementTest.kthElement">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ArrayShiftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="D02_ArrayShift.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="D02_ArrayShift" />
-      <option name="MAIN_CLASS_NAME" value="D02_ArrayShift.ArrayShiftTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="HasLoopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
@@ -347,20 +284,43 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KthElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D06_Insertions.*" />
+          <option name="PATTERN" value="D07_KthElement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="D06_Insertions" />
-      <option name="MAIN_CLASS_NAME" value="D06_Insertions.LinkedListTest" />
+      <option name="PACKAGE_NAME" value="D07_KthElement" />
+      <option name="MAIN_CLASS_NAME" value="D07_KthElement.KthElementTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="KthElementTest.kthElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D07_KthElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="D07_KthElement" />
+      <option name="MAIN_CLASS_NAME" value="D07_KthElement.KthElementTest" />
+      <option name="METHOD_NAME" value="kthElement" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -432,19 +392,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LinkedListTest" />
-      <item itemvalue="JUnit.ArrayShiftTest" />
       <item itemvalue="JUnit.HasLoopTest.hasLoopTest" />
       <item itemvalue="JUnit.HasLoopTest" />
       <item itemvalue="JUnit.ReverseTest.reverseLinkedList5Test" />
+      <item itemvalue="JUnit.KthElementTest" />
+      <item itemvalue="JUnit.KthElementTest.kthElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.KthElementTest.kthElement" />
+        <item itemvalue="JUnit.KthElementTest" />
         <item itemvalue="JUnit.ReverseTest.reverseLinkedList5Test" />
         <item itemvalue="JUnit.HasLoopTest" />
         <item itemvalue="JUnit.HasLoopTest.hasLoopTest" />
-        <item itemvalue="JUnit.LinkedListTest" />
-        <item itemvalue="JUnit.ArrayShiftTest" />
       </list>
     </recent_temporary>
   </component>
@@ -494,12 +454,12 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1375" height="828" extended-state="0" />
+    <frame x="178" y="23" width="1227" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32768363" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3274596" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -510,7 +470,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22205551" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3293617" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -532,28 +492,28 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.27683616" />
       <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32793018" />
       <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21005252" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info id="Learn" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.41396508" />
       <window_info id="Capture Tool" order="4" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32793018" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -566,6 +526,33 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" />
+          <folding>
+            <element signature="e#0#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D10_Reverse/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/D06_Insertions/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3168">
@@ -748,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D07_KthElement/KthElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1536">
@@ -773,16 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" />
-          <folding>
-            <element signature="e#0#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -794,34 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-364">
           <caret line="12" selection-start-line="12" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D06_Insertions/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D10_Reverse/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/HasLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/HasLoopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-940">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -841,25 +783,108 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D10_Reverse/ReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        <state relative-caret-position="1440">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D06_Insertions/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/D10_Reverse/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        <state relative-caret-position="360">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D10_Reverse/Reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="103" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
+        <state>
+          <caret selection-end-line="8" />
+          <folding>
+            <element signature="e#0#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D10_Reverse/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/HasLoopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/HasLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D06_Insertions/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D07_KthElement/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-784" />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D07_KthElement/KthElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D06_Insertions/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D07_KthElement/KthElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
