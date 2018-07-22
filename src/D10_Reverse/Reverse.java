@@ -8,6 +8,7 @@ public class Reverse extends LinkedList {
     public ListNode next = current.next;
 
     //moved to LinkedList for testing
+    //solution inspired by https://stackoverflow.com/questions/22605050/reverse-singly-linked-list-java
 //    public LinkedList reverseLinkedList(){
 //
 //        while (current !=null){
