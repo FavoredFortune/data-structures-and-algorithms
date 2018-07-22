@@ -88,6 +88,22 @@ public class LinkedList {
         }
         return total;
     }
+    public LinkedList reverseLinkedList(){
+         ListNode previous = null;
+         ListNode current = root;
+         ListNode next = current.next;
+
+        while (current !=null){
+            if(next == null){
+                return list;
+            }
+            current.next = previous;
+            previous = current;
+            current = next;
+            next = next.next;
+        }
+        return;
+    }
 
     //method that adds a new node with the given newValue immediately before the selected value
     public void insertBefore(int value, int newValue) {
