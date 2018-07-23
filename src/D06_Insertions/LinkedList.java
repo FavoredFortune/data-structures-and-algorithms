@@ -1,15 +1,15 @@
 package D06_Insertions;
 
 //instantiate this parent class with properties to help manipulate linked lists for the insertion tasks
-public class LinkedLists {
+public class LinkedList {
     ListNode root;
 
     //establish that when a linked list is first created it is empty
-    public LinkedLists() {
+    public LinkedList() {
         this.root = null;
     }
 
-    //this method, as part of the LinkedLists class, helps to put a new value at the root of a linked list
+    //this method, as part of the LinkedList class, helps to put a new value at the root of a linked list
     public void  prepend (int value){
         ListNode node = new ListNode(value);
         node.next = this.root;
@@ -134,6 +134,51 @@ public class LinkedLists {
         current.next = newNodeValue;
     }
 
+    //placed here for testing purposes
+    public ListNode kthElement(int k){
+        this.root = null;
+        ListNode current = this.root;
 
+        //count total number of nodes in Linked List
+        int total = 0;
+        while (current !=null){
+            total++;
+            current = current.next;
+        }
+        current = this.root;
+
+        //move through list again but stop with the count K nodes
+        // ahead from the counted total
+        int cycle = 0;
+        while (cycle != total -k){
+            current = current.next;
+            cycle++;
+        }
+        return current;
+    }
+    public void  prepend (int value) {
+        ListNode node = new ListNode(value);
+        node.next = this.root;
+        this.root = node;
+
+    }
+
+    //placed here for testing purposes
+    public LinkedList reverseLinkedList(LinkedList list) {
+        ListNode previous = null;
+        ListNode current = root;
+        ListNode next = current.next;
+
+        while (current != null) {
+            if (next == null) {
+                return list;
+            }
+            current.next = previous;
+            previous = current;
+            current = next;
+            next = next.next;
+        }
+        return list;
+    }
 }
 

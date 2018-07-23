@@ -2,32 +2,32 @@ package D06_Insertions;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class LinkedListsTest {
-    public LinkedLists empty;
-    public LinkedLists l1;
-    public LinkedLists l2;
-    public LinkedLists l4;
-    public LinkedLists repeated;
+class LinkedListTest {
+    public LinkedList empty;
+    public LinkedList l1;
+    public LinkedList l2;
+    public LinkedList l4;
+    public LinkedList repeated;
 
     @org.junit.jupiter.api.BeforeEach
     void setUp() {
-        empty  = new LinkedLists();
+        empty  = new LinkedList();
         empty.append(15);
 
-        l1 = new LinkedLists();
+        l1 = new LinkedList();
         l1.prepend(12);
 
-        l2 = new LinkedLists();
+        l2 = new LinkedList();
         l2.prepend(14);
         l2.prepend(12);
 
-        l4 = new LinkedLists();
+        l4 = new LinkedList();
         l4.prepend(45);
         l4.prepend(92);
         l4.prepend(19);
         l4.prepend(12);
 
-        repeated = new LinkedLists();
+        repeated = new LinkedList();
         repeated.prepend(4);
         repeated.prepend(3);
         repeated.prepend(3);
