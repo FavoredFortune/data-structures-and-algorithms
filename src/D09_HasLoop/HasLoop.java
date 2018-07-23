@@ -11,13 +11,12 @@ public class HasLoop extends LinkedList {
         while (pointerNodeA!= null) {
             if (pointerNodeA.next == pointerNodeB.next || pointerNodeA == pointerNodeB){
                 isLoop = true;
-                return isLoop;
+
+               return isLoop;
             }
-            pointerNodeA = pointerNodeA.next;
-            pointerNodeB = pointerNodeB.next.next;
+               pointerNodeA = pointerNodeA.next;
+               pointerNodeB = pointerNodeB.next.next;
         }
         return isLoop;
     }
 }
-
-

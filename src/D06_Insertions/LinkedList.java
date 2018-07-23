@@ -1,8 +1,9 @@
 package D06_Insertions;
+import D09_HasLoop.HasLoop;
 
 //instantiate this parent class with properties to help manipulate linked lists for the insertion tasks
 public class LinkedList {
-    ListNode root;
+    public ListNode root;
 
     //establish that when a linked list is first created it is empty
     public LinkedList() {
@@ -180,5 +181,6 @@ public class LinkedList {
         }
         return list;
     }
+
 }
 

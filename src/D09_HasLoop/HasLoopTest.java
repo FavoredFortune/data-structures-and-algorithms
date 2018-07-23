@@ -1,11 +1,11 @@
 package D09_HasLoop;
 
-        import D06_Insertions.Insertion;
-        import D06_Insertions.LinkedList;
-        import D06_Insertions.ListNode;
-        import org.junit.jupiter.api.Test;
+import D06_Insertions.Insertion;
+import D06_Insertions.LinkedList;
+import D06_Insertions.ListNode;
+import org.junit.jupiter.api.Test;
 
-        import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 class HasLoopTest {
     public HasLoop setUpLoopList() {
@@ -67,3 +67,4 @@ class HasLoopTest {
         assertEquals(false, actual);
     }
 }
+
