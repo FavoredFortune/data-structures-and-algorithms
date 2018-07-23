@@ -1,5 +1,4 @@
 package D06_Insertions;
-
 import D09_HasLoop.HasLoop;
 
 //instantiate this parent class with properties to help manipulate linked lists for the insertion tasks
@@ -135,5 +134,53 @@ public class LinkedList {
         newNodeValue.next = current.next;
         current.next = newNodeValue;
     }
+
+    //placed here for testing purposes
+    public ListNode kthElement(int k){
+        this.root = null;
+        ListNode current = this.root;
+
+        //count total number of nodes in Linked List
+        int total = 0;
+        while (current !=null){
+            total++;
+            current = current.next;
+        }
+        current = this.root;
+
+        //move through list again but stop with the count K nodes
+        // ahead from the counted total
+        int cycle = 0;
+        while (cycle != total -k){
+            current = current.next;
+            cycle++;
+        }
+        return current;
+    }
+    public void  prepend (int value) {
+        ListNode node = new ListNode(value);
+        node.next = this.root;
+        this.root = node;
+
+    }
+
+    //placed here for testing purposes
+    public LinkedList reverseLinkedList(LinkedList list) {
+        ListNode previous = null;
+        ListNode current = root;
+        ListNode next = current.next;
+
+        while (current != null) {
+            if (next == null) {
+                return list;
+            }
+            current.next = previous;
+            previous = current;
+            current = next;
+            next = next.next;
+        }
+        return list;
+    }
+
 }
 

@@ -67,3 +67,4 @@ class HasLoopTest {
         assertEquals(false, actual);
     }
 }
+
