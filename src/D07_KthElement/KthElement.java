@@ -2,7 +2,10 @@ package D07_KthElement;
 import D06_Insertions.*;
 
 //all code thanks to rewatching lecture review and seeing fellow students solutions
-public class KthElement extends LinkedLists{
+//special thanks to Amy Cohen and Ahmed Ossan for testing help -
+// see LinkedLists.java for working method - test is based off that code, copied below
+//for grading
+public class KthElement{
     ListNode root;
 
     public ListNode kthElement(int k){
@@ -26,7 +29,6 @@ public class KthElement extends LinkedLists{
         }
         return current;
     }
-
     public void  prepend (int value){
         ListNode node = new ListNode(value);
         node.next = this.root;

@@ -136,8 +136,8 @@ public class LinkedLists {
 
     //adding here for testing - not clear why needed when I extended the class but there it is
     public ListNode kthElement(int k){
-        this.root = null;
-        ListNode current = this.root;
+        ListNode node = new ListNode(k);
+        ListNode current =root;
 
         //count total number of nodes in Linked List
         int total = 0;
@@ -145,16 +145,20 @@ public class LinkedLists {
             total++;
             current = current.next;
         }
-        current = this.root;
 
         //move through list again but stop with the count K nodes
         // ahead from the counted total
-        int cycle = 0;
-        while (cycle != total -k){
-            current = current.next;
-            cycle++;
+        int cycle =total - (k+1);
+        current = root;
+        if(cycle == 0){
+            node =current;
+        } else {
+            for (int i = 0; i < cycle; i++){
+                current = current.next;
+                node = current;
+            }
         }
-        return current;
+        return node;
     }
 
 }
