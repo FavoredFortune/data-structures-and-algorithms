@@ -87,6 +87,22 @@ public class LinkedList {
         }
         return total;
     }
+    public LinkedList reverseLinkedList(){
+
+        ListNode previous = null;
+        ListNode theNextNode = null;
+        ListNode root = this.root;
+        ListNode nodeWeAreOnNow = root;
+
+        while (nodeWeAreOnNow !=null){
+            theNextNode = nodeWeAreOnNow.next;
+            nodeWeAreOnNow.next = previous;
+            previous = nodeWeAreOnNow;
+            nodeWeAreOnNow = theNextNode;
+        }
+        this.root = previous;
+        return this;
+    }
 
     //method that adds a new node with the given newValue immediately before the selected value
     public void insertBefore(int value, int newValue) {
@@ -157,6 +173,7 @@ public class LinkedList {
         }
         return current;
     }
+
     public void  prepend (int value) {
         ListNode node = new ListNode(value);
         node.next = this.root;

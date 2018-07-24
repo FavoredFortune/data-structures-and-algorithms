@@ -1,6 +1,6 @@
 package D07_KthElement;
-import D06_Insertions.LinkedList;
 
+import D06_Insertions.LinkedList;
 import D06_Insertions.ListNode;
 import org.junit.jupiter.api.Test;
 
@@ -8,7 +8,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 
 class KthElementTest {
-    ListNode root;
 
     @Test
     public void kthElementTestBigLL() {
@@ -21,7 +20,9 @@ class KthElementTest {
 
         ListNode actual = l5.kthElement(2);
         ListNode expected = l5.root.next.next;
-        assertEquals(expected, actual);
+
+
+        assertEquals(expected,actual);
     }
 
     @Test
@@ -51,4 +52,5 @@ class KthElementTest {
         ListNode expected = lE.root.next.next.next;
         assertEquals(expected, actual);
     }
+
 }
