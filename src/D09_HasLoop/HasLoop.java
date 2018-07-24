@@ -10,8 +10,8 @@ public class HasLoop extends LinkedList {
 
         while (pointerNodeA!= null) {
             if (pointerNodeA == pointerNodeB.next || pointerNodeA == pointerNodeB){
-                isLoop = true;
-               return true;
+               isLoop = true;
+               return isLoop;
             }
                pointerNodeA = pointerNodeA.next;
                pointerNodeB = pointerNodeB.next.next;
@@ -19,6 +19,3 @@ public class HasLoop extends LinkedList {
         return isLoop;
     }
 }
-
-
-
