@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b570e7f0-0f4a-40e0-8af6-b7daece63849" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Whiteboard10_Sooz.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Whiteboard7_Sooz.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Whiteboard7.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Whiteboard8_Sooz.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Whiteboard9_Sooz.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D07_KthElement/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D07_KthElement/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D08_MergeLinkedLists/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D08_MergeLinkedLists/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D09_HasLoop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D09_HasLoop/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D10_Reverse/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D10_Reverse/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D10_ReverseLL/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D10_ReverseLL/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D10_ReverseLL/reverseLinkedListTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b570e7f0-0f4a-40e0-8af6-b7daece63849" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,7 +37,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="193">
-                <caret line="4" column="212" lean-forward="true" selection-start-line="4" selection-start-column="212" selection-end-line="4" selection-end-column="213" />
+                <caret line="4" column="212" selection-start-line="4" selection-start-column="212" selection-end-line="4" selection-end-column="213" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -882,7 +869,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="193">
-            <caret line="4" column="212" lean-forward="true" selection-start-line="4" selection-start-column="212" selection-end-line="4" selection-end-column="213" />
+            <caret line="4" column="212" selection-start-line="4" selection-start-column="212" selection-end-line="4" selection-end-column="213" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
