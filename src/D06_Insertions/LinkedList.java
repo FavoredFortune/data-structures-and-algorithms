@@ -88,21 +88,21 @@ public class LinkedList {
         }
         return total;
     }
-    public LinkedList reverseLinkedList(LinkedList list){
-         ListNode previous = null;
-         ListNode current = root;
-         ListNode next = current.next;
+    public LinkedList reverseLinkedList(){
 
-        while (current !=null){
-            if(next == null){
-                return list;
-            }
-            current.next = previous;
-            previous = current;
-            current = next;
-            next = next.next;
+        ListNode previous = null;
+        ListNode theNextNode = null;
+        ListNode root = this.root;
+        ListNode nodeWeAreOnNow = root;
+
+        while (nodeWeAreOnNow !=null){
+            theNextNode = nodeWeAreOnNow.next;
+            nodeWeAreOnNow.next = previous;
+            previous = nodeWeAreOnNow;
+            nodeWeAreOnNow = theNextNode;
         }
-        return list;
+        this.root = previous;
+        return this;
     }
 
     //method that adds a new node with the given newValue immediately before the selected value

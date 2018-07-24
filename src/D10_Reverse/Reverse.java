@@ -3,23 +3,25 @@ import D06_Insertions.LinkedList;
 import D06_Insertions.ListNode;
 
 public class Reverse extends LinkedList {
-    public ListNode previous = null;
-    public ListNode current = root;
-    public ListNode next = current.next;
 
     //moved to LinkedList for testing
     //solution inspired by https://stackoverflow.com/questions/22605050/reverse-singly-linked-list-java
-//    public LinkedList reverseLinkedList(){
-//
-//        while (current !=null){
-//            if(next == null){
-//                return list;
-//            }
-//            current.next = previous;
-//            previous = current;
-//            current = next;
-//            next = next.next;
-//        }
-//        return list;
-//    }
+    //see LinkedList class in D06_Insertions package lines 91-106
+    //also below for reference, but test is based off code on LinkedList class at address noted above.
+    public LinkedList reverseLinkedList(){
+
+        ListNode previous = null;
+        ListNode theNextNode = null;
+        ListNode root = this.root;
+        ListNode nodeWeAreOnNow = root;
+
+        while (nodeWeAreOnNow !=null){
+            theNextNode = nodeWeAreOnNow.next;
+            nodeWeAreOnNow.next = previous;
+            previous = nodeWeAreOnNow;
+            nodeWeAreOnNow = theNextNode;
+        }
+        this.root = previous;
+        return this;
+    }
 }
