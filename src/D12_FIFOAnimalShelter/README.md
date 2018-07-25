@@ -1,13 +1,14 @@
-# Implement a Queue using two Stacks.
-Using only the pop and push Stack methods, create a enqueue and dequeue method for a Queue.
+# Overview
+
+Use enque and deque to manage a First In First Out (FIFO) Animal Shelter
 
 ## Challenge
-See above
+All methods from the Java Queue interface are available. Only use Queue methods. (no stacks)
 
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
-![Whiteboard 11](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard11.pdf)
+![Whiteboard 12](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard12.pdf)
 
 
 I also built a test that properly tests the function for several uses cases.
