@@ -42,23 +42,38 @@ class FIFOAnimalShelterTest {
         String expected = numberTest.toString();
         String actual = "[7, 43, 12]";
 
-        assertEquals(expected,actual);
+        assertEquals(expected, actual);
     }
 
     @Test
     void getAnimalEmptyShelterTest() {
-        FIFOAnimalShelter animalShelter = null;
-        String expected = animalShelter.getAnimal();
-        String actual = "Sorry there are no animals at this shelter right now";
+        FIFOAnimalShelter animalShelter = new FIFOAnimalShelter();
+        Pet expected = animalShelter.getAnimal();
+        Pet actual = null;
 
-       assertEquals(expected, actual);
+        assertEquals(expected, actual);
     }
+
+    @Test
+    void addAnimalAddOneTest() {
+        Queue<Pet> onePetAnimalShelter = new LinkedList<>();
+        onePetAnimalShelter.offer(cat);
+
+    }
+
+    @Test
+    void getAnimalHasOneAnimalTest() {
+        FIFOAnimalShelter animalShelter = new FIFOAnimalShelter();
+        ;
+        LinkedList<Pet> full = new LinkedList<>();
+
+        assertEquals(expected, actual);
+    }
+
 
     @Test
     void getPref() {
     }
 
-    @Test
-    void getLongestStay() {
-    }
 }
+
