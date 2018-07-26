@@ -1,16 +1,17 @@
 package D12_FIFOAnimalShelter;
 
+import java.util.LinkedList;
 import java.util.Queue;
 
 public class FIFOAnimalShelter {
 
     //create variables available to the whole class, but only this class, i.e. private
-    private Queue<String> animalShelter;
-    private Integer size = (Integer) animalShelter.size();
+    private Queue<Pet> animalShelter = new LinkedList<>();
+    private int size = animalShelter.size();
     private int counter = size -1;
-    public String sorry = "Sorry there are no animals at this shelter right now";
-    private String animal;
-    private String shelter;
+    private Pet animal = new Pet();
+    private Pet cat = new Cat(cat);
+    private Pet dog = new Dog(dog);
 
     //this method is for testing to make sure the assertion tests for expected and
     // actual values can compare strings and return strings in human readable form
@@ -20,40 +21,42 @@ public class FIFOAnimalShelter {
     }
 
     //scenario one - any animal if no animal type is preferred;
-    public String getAnimal(){
+    public Pet getAnimal(){
         if(animalShelter.poll() == null){
-            return sorry;
+            return null;
         }
-        while(counter > 0){
-            animal = animalShelter.poll();
-            shelter = String.valueOf(animalShelter.add(animal));
-            counter --;
-        }
-        return "Congratulations! Here is your new " + animal + ".";
+        System.out.println("Congratulations! Here is your new " + animalShelter.poll() + ".");
+        return animalShelter.poll();
+    }
+
+    public void addAnimal(Pet pet){
+        animalShelter.offer(pet);
+        System.out.println("You just added a "+ pet.type+ " to the animal shelter.");
+
     }
 
     //described scenario of "dequeue" to deliver the longest waiting preferred animal
-    public String getPref(String pref){
+    public Pet getPref(String pref){
         if(animalShelter.poll() == null){
-            return sorry;
+            System.out.println(sorry);
+            return null;
         }
-        while(counter > 0 && animalShelter.poll() != pref) {
-            String currentAnimal = animalShelter.poll();
-            if (currentAnimal == pref) {
-                return "Congratulations! Here is your new " + pref + ".";
+        while(counter > 0 && animalShelter.poll().type != pref) {
+            Pet currentAnimal = animalShelter.poll();
+            if (currentAnimal.type == pref) {
+                System.out.println("Congratulations! Here is your new " + pref + ".");
+                return currentAnimal;
             } else {
-                shelter = String.valueOf(animalShelter.add(animal));
+                currentAnimal = animalShelter.poll();
+                animalShelter.add(currentAnimal);
                 counter--;
             }
-        } return "Congratulations! Here is your new " + animal + ".";
+        }
+        System.out.println("Congratulations! Here is your new " + pref + ".");
+        return animal;
     }
 
-    public String getLongestStay(){
-        if(animalShelter.poll() == null){
-            return sorry;
-        }
-        return "Congratulations! Here is your new " + animalShelter.poll() + ".";
-    }
+
 
 
 }
