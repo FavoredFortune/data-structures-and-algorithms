@@ -29,10 +29,5 @@ public class KthElement{
         }
         return current;
     }
-    public void  prepend (int value){
-        ListNode node = new ListNode(value);
-        node.next = this.root;
-        this.root = node;
-    }
-
 }
+

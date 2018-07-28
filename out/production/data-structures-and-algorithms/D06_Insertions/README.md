@@ -1,39 +1,41 @@
 # data-structures-and-algorithms
 Whiteboarding Challenges
 
-# Kth Element
-Write a method for the Linked List class which takes a number, k, as a parameter. Return the node that is k from the end of the linked list. You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges. ​
+# Linked List Insertions
+Using the self generated Linked List class and Node properties  (no built in methods) write a series of methods to append, insert a new value before something and insert a new value after something.
 
 ## Challenge
 See summary above. Working with linked lists to understand their properties and uses.
 
 ## Solution
-In this challenge, I white boarded on paper and then coded in the IDE.
-
-[Whiteboard 11](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard11.pdf)
-
-
+In this challenge, I whiteboarded on paper and then coded in the IDE.
 I also built a test that properly tests the function for several uses cases.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~
 LAB DOCUMENTATION
 Code Challenge
-​ k-th value from the end of a linked list. ​
+Linked list insertions.
 
 Specifications
 Read all of the following instructions carefully. Name things exactly as described, or you will get a ZERO without comment
 Do all your work in a public repository called data-structures-and-algorithms, with a well-formated, detailed top level README.md matching the example provided by your instructor
-Create a branch in your repository called ll_kth_from_end
+Create a branch in your repository called ll_insertions
 On your branch, create…
-C#: Create a method named KthElement() outside of Main() in your Program.cs file. Call Your newly created method in Main() once complete.
-JavaScript: a file called ll_kth_from_end.js
-Python: a file called ll_kth_from_end.py
+C#: Create a method named Insertion() outside of Main() in your Program.cs file. Call Your newly created method in Main() once complete.
+JavaScript: a file called ll_insertions.js
+Python: a file called ll_insertions.py
 Include any language-specific configuration files required for this challenge to become an individual component, module, library, etc.
-NOTE: You can find an example of this configuration for your course in your class lecture repository. ​
+NOTE: You can find an example of this configuration for your course in your class lecture repository.
 Feature Tasks
-Write a method for the Linked List class which takes a number, k, as a parameter. Return the node that is k from the end of the linked list. You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges. ​
-Example
+Write the following methods for the Linked List class:
+
+.append(value) which adds a new node with the given value to the end of the list
+.insertBefore(value, newVal) which add a new node with the given newValue immediately before the first value node
+.insertAfter(value, newVal) which add a new node with the given newValue immediately after the first value node
+You have access to the Node class and all the properties on the Linked List class.
+
+Examples
 .append(value)
 Input	Args	Output
 head -> [1] -> [3] -> [2] -> X	5	head -> [1] -> [3] -> [2] -> [5] -> X
@@ -50,14 +52,25 @@ head -> [1] -> [3] -> [2] -> X	3, 5	head -> [1] -> [3] -> [5] -> [2] -> X
 head -> [1] -> [3] -> [2] -> X	2, 5	head -> [1] -> [3] -> [2] -> [5] -> X
 head -> [1] -> [2] -> [2] -> X	2, 5	head -> [1] -> [2] -> [5] -> [2] -> X
 head -> [1] -> [3] -> [2] -> X	4, 5	Exception
-
-
 Structure and Testing
-​ Utilize the Single-responsibility principle: any methods you write should be clean, reusable, abstract component parts to the whole challenge. You will be given feedback and marked down if you attempt to define a large, complex algorithm in one function definition. ​ Write at least three test assertions for each method that you define. ​ Ensure your tests are passing before you submit your solution. ​
+Utilize the Single-responsibility principle: any methods you write should be clean, reusable, abstract component parts to the whole challenge. You will be given feedback and marked down if you attempt to define a large, complex algorithm in one function definition.
+
+Write at least three test assertions for each method that you define.
+
+Ensure your tests are passing before you submit your solution.
 
 Stretch Goal
-​ Once you’ve achieved a working solution, implement a method that finds the node at the middle of the Linked List. ​
+Once you’ve achieved a working solution, write an additional method to delete a node with the given value from the linked list.
 
+Documentation: Your README.md
+# Linked List Insertions
+<!-- Short summary or background information -->
+
+## Challenge
+<!-- Description of the challenge -->
+
+## Solution
+<!-- Embedded whiteboard image -->
 
 Submission Instructions
 Take a photo of your completed whiteboard, matching the example whiteboard layout
@@ -71,4 +84,3 @@ Copy the link to your open pull request and paste it into the corresponding Canv
 Leave a description of how long this assignment took you in the comments box
 Add any additional comments you like about your process or any difficulties you may have had with the assignment
 Merge your branch into master, and delete your branch (don’t worry, the PR link will still work)
-© Code Fellows 2018
