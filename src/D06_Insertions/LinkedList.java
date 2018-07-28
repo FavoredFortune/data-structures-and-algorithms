@@ -1,5 +1,5 @@
 //package D06_Insertions;
-//import D09_HasLoop.HasLoop;
+////import D09_HasLoop.HasLoop;
 //
 ////instantiate this parent class with properties to help manipulate linked lists for the insertion tasks
 //public class LinkedList {
@@ -172,13 +172,6 @@
 //            cycle++;
 //        }
 //        return current;
-//    }
-//
-//    public void  prepend (int value) {
-//        ListNode node = new ListNode(value);
-//        node.next = this.root;
-//        this.root = node;
-//
 //    }
 //
 //    //placed here for testing purposes

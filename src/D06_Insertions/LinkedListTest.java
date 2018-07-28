@@ -1,5 +1,8 @@
 //package D06_Insertions;
 //import org.junit.jupiter.api.Test;
+//
+//
+//
 //import static org.junit.jupiter.api.Assertions.*;
 //
 //class LinkedListTest {
@@ -12,7 +15,7 @@
 //    @org.junit.jupiter.api.BeforeEach
 //    void setUp() {
 //        empty  = new LinkedList();
-//        empty.append(15);
+//        empty.append;
 //
 //        l1 = new LinkedList();
 //        l1.prepend(12);
