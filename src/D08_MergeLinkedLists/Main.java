@@ -15,8 +15,8 @@ public class Main {
         listB.prepend(2);
 
         //verify order of original two linked lists
-        System.out.println(listA.toString());
-        System.out.println(listB.toString());
+//        System.out.println(listA.toString());
+//        System.out.println(listB.toString());
 
         //use method to create merged linked list
         LinkedList listC = MergedLinkedLists.mergeLists(listA, listB);
