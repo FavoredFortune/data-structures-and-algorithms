@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b570e7f0-0f4a-40e0-8af6-b7daece63849" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,13 +49,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3864" />
+          <entry key="java" value="4350" />
           <entry key="md" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3864" />
+          <entry key="JAVA" value="4350" />
           <entry key="Markdown" value="112" />
         </counts>
       </usages-collector>
@@ -63,10 +63,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="129">
               <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="18" selection-end-column="47" />
             </state>
           </provider>
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="371">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -99,11 +99,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="30" lean-forward="true" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="261">
+              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,10 +175,10 @@
         <option value="$PROJECT_DIR$/src/D06_Insertions/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/D06_Insertions/Insertion.java" />
         <option value="$PROJECT_DIR$/src/D07_KthElement/KthElement.java" />
-        <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java" />
         <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java" />
         <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java" />
+        <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java" />
+        <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java" />
       </list>
     </option>
   </component>
@@ -250,7 +253,7 @@
     <property name="SearchEverywhereHistoryKey" value="reverseLinkedList&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532811214941" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532813660843" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -302,87 +305,90 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.Main" />
-      <module name="data-structures-and-algorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="D08_MergeLinkedLists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MergedLinkedListsTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D14_Stack_Max in data-structures-and-algorithms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MergedLinkedListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D14_Stack_Max.*" />
+          <option name="PATTERN" value="D08_MergeLinkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="D14_Stack_Max" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
+      <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MergedLinkedListsTest.mergeListsSmallListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D12_FIFOAnimalShelter.*" />
+          <option name="PATTERN" value="D08_MergeLinkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="D12_FIFOAnimalShelter" />
-      <option name="MAIN_CLASS_NAME" value="D12_FIFOAnimalShelter.FIFOAnimalShelterTest" />
-      <option name="METHOD_NAME" value="getAnimalEmptyShelterTest" />
+      <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
+      <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
+      <option name="METHOD_NAME" value="mergeListsSmallListsTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FIFOAnimalShelterTest.toStringFullQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MergedLinkedListsTest.mergeListsTestOneList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D12_FIFOAnimalShelter.*" />
+          <option name="PATTERN" value="D08_MergeLinkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="D12_FIFOAnimalShelter" />
-      <option name="MAIN_CLASS_NAME" value="D12_FIFOAnimalShelter.FIFOAnimalShelterTest" />
-      <option name="METHOD_NAME" value="toStringFullQueueTest" />
+      <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
+      <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
+      <option name="METHOD_NAME" value="mergeListsTestOneList" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FIFOAnimalShelterTest.toStringIntegerQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MergedLinkedListsTest.mergeListsUnevenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D12_FIFOAnimalShelter.*" />
+          <option name="PATTERN" value="D08_MergeLinkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="D12_FIFOAnimalShelter" />
-      <option name="MAIN_CLASS_NAME" value="D12_FIFOAnimalShelter.FIFOAnimalShelterTest" />
-      <option name="METHOD_NAME" value="toStringIntegerQueueTest" />
+      <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
+      <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
+      <option name="METHOD_NAME" value="mergeListsUnevenTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergedLinkedListsTest.mergeListsUnevenTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D08_MergeLinkedLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
+      <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
+      <option name="METHOD_NAME" value="mergeListsUnevenTest2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -404,19 +410,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FIFOAnimalShelterTest.toStringFullQueueTest" />
-      <item itemvalue="JUnit.FIFOAnimalShelterTest.toStringIntegerQueueTest" />
-      <item itemvalue="JUnit.FIFOAnimalShelterTest.getAnimalEmptyShelterTest" />
-      <item itemvalue="JUnit.D14_Stack_Max in data-structures-and-algorithms" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsTestOneList" />
+      <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsSmallListsTest" />
+      <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsUnevenTest" />
+      <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsUnevenTest2" />
+      <item itemvalue="JUnit.MergedLinkedListsTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.D14_Stack_Max in data-structures-and-algorithms" />
-        <item itemvalue="JUnit.FIFOAnimalShelterTest.getAnimalEmptyShelterTest" />
-        <item itemvalue="JUnit.FIFOAnimalShelterTest.toStringIntegerQueueTest" />
-        <item itemvalue="JUnit.FIFOAnimalShelterTest.toStringFullQueueTest" />
+        <item itemvalue="JUnit.MergedLinkedListsTest" />
+        <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsUnevenTest2" />
+        <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsUnevenTest" />
+        <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsSmallListsTest" />
+        <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsTestOneList" />
       </list>
     </recent_temporary>
   </component>
@@ -438,39 +444,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 12h 04m 24s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsTestOneList - 2018.07.28 at 14h 15m 08s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsTestOneList" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 12h 04m 54s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsSmallListsTest - 2018.07.28 at 14h 18m 04s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsSmallListsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 12h 05m 21s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsSmallListsTest - 2018.07.28 at 14h 19m 22s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsSmallListsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 12h 06m 22s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsSmallListsTest - 2018.07.28 at 14h 20m 29s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsSmallListsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 12h 06m 54s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsSmallListsTest - 2018.07.28 at 14h 22m 08s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsSmallListsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 12h 09m 45s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsSmallListsTest - 2018.07.28 at 14h 24m 56s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsSmallListsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 12h 49m 40s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsUnevenTest - 2018.07.28 at 14h 27m 46s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsUnevenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 13h 02m 51s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsUnevenTest - 2018.07.28 at 14h 30m 39s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsUnevenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 13h 03m 36s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest_mergeListsUnevenTest2 - 2018.07.28 at 14h 33m 49s.xml">
+      <configuration name="MergedLinkedListsTest.mergeListsUnevenTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 13h 47m 34s.xml">
-      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+    <history-entry file="MergedLinkedListsTest - 2018.07.28 at 14h 33m 59s.xml">
+      <configuration name="MergedLinkedListsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14073000" />
+    <option name="totallyTimeSpent" value="16507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1375" height="828" extended-state="0" />
@@ -493,7 +499,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32880434" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32744566" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -549,49 +555,49 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
-          <line>56</line>
+          <line>37</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
-          <line>57</line>
+          <line>38</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
-          <line>48</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
-          <line>49</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
-          <line>64</line>
+          <line>45</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
-          <line>74</line>
+          <line>55</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
-          <line>75</line>
+          <line>56</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
-          <line>65</line>
+          <line>46</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
@@ -795,13 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="30" lean-forward="true" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -816,17 +815,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java">
+    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="129">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="371">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

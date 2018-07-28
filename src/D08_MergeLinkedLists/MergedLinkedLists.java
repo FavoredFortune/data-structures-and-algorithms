@@ -11,7 +11,9 @@ public class MergedLinkedLists {
         ListNode currentA = listA.root;
         ListNode currentB = listB.root;
 
-        //with edge cases eliminated start new zipped list with root of first list
+        //per Steve not doing code for edge cases of one or both lists being empty
+
+        //starting new return/merged list
         returnList.root = new ListNode(currentA.data);
         returnList.root.next = new ListNode(currentB.data);
 
