@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b570e7f0-0f4a-40e0-8af6-b7daece63849" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +30,9 @@
     <session id="-1486250816">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="1" />
           <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -37,6 +44,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="java" value="4" />
+          <entry key="md" value="1" />
           <entry key="java" value="24" />
           <entry key="md" value="2" />
         </counts>
@@ -64,6 +73,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D07_KthElement/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
         <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
@@ -72,6 +86,11 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="43" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="43" />
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,24 +101,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+
+        <entry file="file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
         <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
               <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+
+        <entry file="file://$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="12" column="28" selection-end-line="63" />
+
         <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
               <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+
+        <entry file="file://$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="11" column="8" selection-end-line="79" />
+
         <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
@@ -107,16 +145,26 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+
             </state>
           </provider>
         </entry>
       </file>
+
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D13_MultiBracketValidation/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="243">
+                <caret line="51" selection-start-line="51" selection-end-line="51" selection-end-column="22" />
+
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="195">
                 <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+
               </first_editor>
               <second_editor />
             </state>
@@ -128,8 +176,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -177,6 +225,12 @@
         <option value="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/Pet.java" />
         <option value="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/Dog.java" />
         <option value="$PROJECT_DIR$/src/D13_MultiBracketValidation/README.md" />
+
+        <option value="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelter.java" />
+        <option value="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelterTest.java" />
+        <option value="$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidationTest.java" />
+        <option value="$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java" />
+
         <option value="$PROJECT_DIR$/src/D14_Stack_Max/README.md" />
         <option value="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelter.java" />
         <option value="$PROJECT_DIR$/src/D06_Insertions/LinkedListTest.java" />
@@ -192,6 +246,7 @@
         <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java" />
         <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedListsTest.java" />
         <option value="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md" />
+
       </list>
     </option>
   </component>
@@ -215,7 +270,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+
+      <pane id="AndroidView" />
+
       <pane id="PackagesPane" />
+
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,6 +296,9 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+
+              <item name="D13_MultiBracketValidation" type="462c0819:PsiDirectoryNode" />
+
               <item name="D08_MergeLinkedLists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -250,12 +312,17 @@
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="D14_Stack_Max" type="462c0819:PsiDirectoryNode" />
+
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+
+      <pane id="PackagesPane" />
+
       <pane id="AndroidView" />
+
       <pane id="Scope" />
     </panes>
   </component>
@@ -266,7 +333,11 @@
     <property name="SearchEverywhereHistoryKey" value="reverseLinkedList&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532925954665" />
+
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532814262274" />
+
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -274,25 +345,38 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="D11_Queue_with_Stacks" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+
+      <recent name="D13_MultiBracketValidation" />
+
       <recent name="D08_MergeLinkedLists" />
+
       <recent name="D12_FIFOAnimalShelter" />
       <recent name="D11_Queue_with_Stacks" />
       <recent name="D07_KthElement" />
       <recent name="D10_Reverse" />
     </key>
+
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="D11_Queue_with_Stacks" />
+
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="D06_Insertions.Insertion" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="D08_MergeLinkedLists" />
+
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe" />
@@ -300,6 +384,14 @@
       <recent name="$PROJECT_DIR$/src/D13_MultiBracketValidation" />
       <recent name="$PROJECT_DIR$/src/D12_FIFOAnimalShelter" />
       <recent name="$PROJECT_DIR$/src/D10_Reverse" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/D09_HasLoop" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="D06_Insertions.Insertion" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/D09_HasLoop" />
@@ -318,7 +410,11 @@
       </list>
     </option>
   </component>
+
+  <component name="RunManager" selected="JUnit.MultiBracketValidationTest.multiBracketValidationTestUnbalanced">
+
   <component name="RunManager" selected="JUnit.MergedLinkedListsTest">
+
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -333,13 +429,32 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+
+      <option name="PACKAGE_NAME" value="D12_FIFOAnimalShelter" />
+      <option name="MAIN_CLASS_NAME" value="D12_FIFOAnimalShelter.FIFOAnimalShelterTest" />
+      <option name="METHOD_NAME" value="getAnimalEmptyShelterTest" />
+      <option name="TEST_OBJECT" value="method" />
+
       <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
       <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
+
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
+    <configuration name="MultiBracketValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D13_MultiBracketValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D13_MultiBracketValidation" />
+      <option name="MAIN_CLASS_NAME" value="D13_MultiBracketValidation.MultiBracketValidationTest" />
+
     <configuration name="MergedLinkedListsTest.mergeListsSmallListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
@@ -352,11 +467,25 @@
       <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
       <option name="METHOD_NAME" value="mergeListsSmallListsTest" />
       <option name="TEST_OBJECT" value="method" />
+
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
+    <configuration name="MultiBracketValidationTest.multiBracketValidationTestBalanced" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D13_MultiBracketValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D13_MultiBracketValidation" />
+      <option name="MAIN_CLASS_NAME" value="D13_MultiBracketValidation.MultiBracketValidationTest" />
+      <option name="METHOD_NAME" value="multiBracketValidationTestBalanced" />
+
     <configuration name="MergedLinkedListsTest.mergeListsTestOneList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
@@ -368,12 +497,26 @@
       <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
       <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
       <option name="METHOD_NAME" value="mergeListsTestOneList" />
+
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
+    <configuration name="MultiBracketValidationTest.multiBracketValidationTestEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D13_MultiBracketValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D13_MultiBracketValidation" />
+      <option name="MAIN_CLASS_NAME" value="D13_MultiBracketValidation.MultiBracketValidationTest" />
+      <option name="METHOD_NAME" value="multiBracketValidationTestEmpty" />
+
     <configuration name="MergedLinkedListsTest.mergeListsUnevenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
@@ -385,12 +528,26 @@
       <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
       <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
       <option name="METHOD_NAME" value="mergeListsUnevenTest" />
+
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
+    <configuration name="MultiBracketValidationTest.multiBracketValidationTestUnbalanced" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D13_MultiBracketValidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D13_MultiBracketValidation" />
+      <option name="MAIN_CLASS_NAME" value="D13_MultiBracketValidation.MultiBracketValidationTest" />
+      <option name="METHOD_NAME" value="multiBracketValidationTestUnbalanced" />
+
     <configuration name="MergedLinkedListsTest.mergeListsUnevenTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
@@ -402,6 +559,7 @@
       <option name="PACKAGE_NAME" value="D08_MergeLinkedLists" />
       <option name="MAIN_CLASS_NAME" value="D08_MergeLinkedLists.MergedLinkedListsTest" />
       <option name="METHOD_NAME" value="mergeListsUnevenTest2" />
+
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -423,6 +581,21 @@
       </method>
     </configuration>
     <list>
+
+      <item itemvalue="JUnit.FIFOAnimalShelterTest.getAnimalEmptyShelterTest" />
+      <item itemvalue="JUnit.MultiBracketValidationTest.multiBracketValidationTestEmpty" />
+      <item itemvalue="JUnit.MultiBracketValidationTest.multiBracketValidationTestBalanced" />
+      <item itemvalue="JUnit.MultiBracketValidationTest" />
+      <item itemvalue="JUnit.MultiBracketValidationTest.multiBracketValidationTestUnbalanced" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MultiBracketValidationTest.multiBracketValidationTestUnbalanced" />
+        <item itemvalue="JUnit.MultiBracketValidationTest.multiBracketValidationTestBalanced" />
+        <item itemvalue="JUnit.MultiBracketValidationTest" />
+        <item itemvalue="JUnit.MultiBracketValidationTest.multiBracketValidationTestEmpty" />
+        <item itemvalue="JUnit.FIFOAnimalShelterTest.getAnimalEmptyShelterTest" />
+
       <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsTestOneList" />
       <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsSmallListsTest" />
       <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsUnevenTest" />
@@ -436,6 +609,7 @@
         <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsUnevenTest" />
         <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsSmallListsTest" />
         <item itemvalue="JUnit.MergedLinkedListsTest.mergeListsTestOneList" />
+
       </list>
     </recent_temporary>
   </component>
@@ -449,15 +623,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531844389822</updated>
+
+      <workItem from="1532917726441" duration="5879000" />
+
       <workItem from="1532635246993" duration="1043000" />
       <workItem from="1532647637324" duration="1290000" />
       <workItem from="1532708692415" duration="3179000" />
       <workItem from="1532720607805" duration="209000" />
       <workItem from="1532814171073" duration="91000" />
+
     </task>
     <servers />
   </component>
   <component name="TestHistory">
+
+    <history-entry file="FIFOAnimalShelterTest_getAnimalEmptyShelterTest - 2018.07.25 at 12h 09m 45s.xml">
+      <configuration name="FIFOAnimalShelterTest.getAnimalEmptyShelterTest" configurationId="JUnit" />
+
     <history-entry file="MergedLinkedListsTest_mergeListsTestOneList - 2018.07.28 at 14h 15m 08s.xml">
       <configuration name="MergedLinkedListsTest.mergeListsTestOneList" configurationId="JUnit" />
     </history-entry>
@@ -475,6 +657,7 @@
     </history-entry>
     <history-entry file="MergedLinkedListsTest_mergeListsSmallListsTest - 2018.07.28 at 14h 24m 56s.xml">
       <configuration name="MergedLinkedListsTest.mergeListsSmallListsTest" configurationId="JUnit" />
+
     </history-entry>
     <history-entry file="MergedLinkedListsTest_mergeListsUnevenTest - 2018.07.28 at 14h 27m 46s.xml">
       <configuration name="MergedLinkedListsTest.mergeListsUnevenTest" configurationId="JUnit" />
@@ -488,6 +671,24 @@
     <history-entry file="MergedLinkedListsTest - 2018.07.28 at 14h 33m 59s.xml">
       <configuration name="MergedLinkedListsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MultiBracketValidationTest_multiBracketValidationTestEmpty - 2018.07.29 at 21h 35m 04s.xml">
+      <configuration name="MultiBracketValidationTest.multiBracketValidationTestEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_multiBracketValidationTestBalanced - 2018.07.29 at 21h 35m 53s.xml">
+      <configuration name="MultiBracketValidationTest.multiBracketValidationTestBalanced" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest - 2018.07.29 at 21h 36m 54s.xml">
+      <configuration name="MultiBracketValidationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_multiBracketValidationTestBalanced - 2018.07.29 at 21h 37m 51s.xml">
+      <configuration name="MultiBracketValidationTest.multiBracketValidationTestBalanced" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_multiBracketValidationTestBalanced - 2018.07.29 at 21h 38m 53s.xml">
+      <configuration name="MultiBracketValidationTest.multiBracketValidationTestBalanced" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5879000" />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="16779000" />
@@ -496,7 +697,11 @@
     <frame x="30" y="23" width="1375" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
+
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21350211" />
+
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19654913" />
+
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -504,18 +709,32 @@
       <window_info id="Learn" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30027175" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.10733695" />
+
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30027175" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4103261" />
+
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32201087" />
+      <window_info anchor="right" id="Database" />
+
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32880434" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32744566" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -525,10 +744,16 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21350211" />
+
       <window_info anchor="right" id="Database" order="9" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20170213" />
+
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,6 +761,30 @@
       <window_info id="Learn" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3010279" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.41116005" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32201087" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.0" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3010279" />
@@ -556,6 +805,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,6 +818,42 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
+
+          <url>file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+
           <url>file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergedLinkedLists.java</url>
           <line>37</line>
           <properties />
@@ -614,11 +900,26 @@
           <line>46</line>
           <properties />
           <option name="timeStamp" value="17" />
+
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+
+    <entry file="file://$PROJECT_DIR$/src/D07_KthElement/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="12" column="28" selection-end-line="63" />
+
     <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/MergeLInkedLists.java" />
     <entry file="file://$PROJECT_DIR$/src/D02_ArrayShift/ArrayShiftTest.java">
@@ -812,11 +1113,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="24" column="7" selection-start-column="2" selection-end-line="55" selection-end-column="3" />
+
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="116">
+          <caret line="11" column="8" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D13_MultiBracketValidation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="243">
+            <caret line="51" selection-start-line="51" selection-end-line="51" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D13_MultiBracketValidation/MultiBracketValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="43" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="43" />
+
         <state relative-caret-position="493">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="18" selection-end-column="47" />
         </state>
@@ -860,6 +1190,7 @@
             <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           </first_editor>
           <second_editor />
+
         </state>
       </provider>
     </entry>
