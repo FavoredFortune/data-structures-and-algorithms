@@ -13,16 +13,25 @@ public class MultiBracketValidation {
     public static boolean multiBracketValidation(Stack<String> input){
         Stack<String> original = input;
 
+        //apply helper method with helper method to execute main intended method
         return bracketSort(original);
     }
 
     public static boolean bracketSort(Stack<String> input) {
         int size = input.size();
+
+        //rule out empty case
         if (size == 0) {
             return true;
         }
+
+        //while the original string stack isn't empty do the following
         while (size > 0) {
+
+            //evalute the first item in the input string stack
             String temp = input.pop();
+
+            //sort into various stacks by character type
             if (temp == "{" || temp == "}") {
                 curly.push(temp);
             } else if (temp == "[" || temp == "]") {
@@ -33,12 +42,16 @@ public class MultiBracketValidation {
                 other.push(temp);
             }
         }
+
+        //evaluate with secondary helper method if each character bracket type is matched/even
         if (curly.matched() == true && bracket.matched() == true && parens.matched() == true) {
             return true;
         } else {
             return false;
         }
     }
+
+    //see with helper method if each character bracket type is matched/even
     public static boolean matched(){
         boolean match = false;
         while (match) {
