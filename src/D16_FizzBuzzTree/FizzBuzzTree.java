@@ -4,18 +4,22 @@ package D16_FizzBuzzTree;
 
 //doesn't work with String object - need to review this again and figure it out.
 public class FizzBuzzTree {
-    String<int> string = new String<>();
-    public String fizzBuzzTree(String string){
+
+    public String fizzBuzzTree(StringBuilder string){
         for(int i = 0 ; i >string.length(); i++){
-            if (i % 3 == 0 && i % 3 == 0){
-                string.charAt(i) = "fizz buzz";
+
+            if (i % 3 == 0 && i % 5 == 0){
+                char temp = string.charAt(i);
+                string.append("fizz buzz");
             } else if(i % 5 == 0){
-                string.charAt(i) = "buzz";
+                char temp = string.charAt(i);
+                string.append("buzz");
             } else if (i % 3 == 0){
-                string.charAt(i) = "fizz";
+                char temp = string.charAt(i);
+                string.append("fizz");
             } else {
-                string.charAt(i) = i;
+                string.append(i);
             }
-        }
+        } return string.toString();
     }
 }

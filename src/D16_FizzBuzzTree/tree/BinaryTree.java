@@ -5,7 +5,6 @@ public class BinaryTree {
     private TreeNode root;
 
     public TreeNode getRoot() {
-
         return root;
     }
 
@@ -29,6 +28,7 @@ public class BinaryTree {
                 current.right = new TreeNode(value);
                 return;
             }
+            current = current.left;
         }
     }
 
@@ -41,7 +41,6 @@ public class BinaryTree {
         inOrder(builder, current.right);
 
         return builder;
-    }
     }
 
 }
