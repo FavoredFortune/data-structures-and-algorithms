@@ -1,6 +1,6 @@
 # Overview
 
-find if different bracket types ("(){}[]") are matched in a string or not - return boolean.
+find if different bracket types ("(){}[]") are matched, in a balanced order, in a string or not - return boolean.
 
 ## Challenge
 Use stacks to test and return true/false
@@ -61,15 +61,6 @@ Input	Output	Why
 {	FALSE	error unmatched opening { remaining.
 )	FALSE	error closing ) arrived without corresponding opening.
 [}	FALSE	error closing }. Doesn’t match opening (.
-Documentation: Your README.md
-# Multi-bracket Validation.
-<!-- Short summary or background information -->
-
-## Challenge
-<!-- Description of the challenge -->
-
-## Solution
-<!-- Embedded whiteboard image -->
 
 Submission Instructions
 Take a photo of your completed whiteboard, matching the example whiteboard layout
