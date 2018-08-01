@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af6ebcb3-1528-469b-8726-d72c80237b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures-and-algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures-and-algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D11_Queue_with_Stacks/QueueWithStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D11_Queue_with_Stacks/QueueWithStacks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D11_Queue_with_Stacks/QueueWithStacksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D11_Queue_with_Stacks/QueueWithStacksTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D16_FizzBuzzTree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D16_FizzBuzzTree/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D16_FizzBuzzTree/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D16_FizzBuzzTree/tree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D16_FizzBuzzTree/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D16_FizzBuzzTree/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,13 +33,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2193" />
+          <entry key="java" value="2275" />
           <entry key="md" value="338" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2193" />
+          <entry key="JAVA" value="2275" />
           <entry key="Markdown" value="338" />
         </counts>
       </usages-collector>
@@ -99,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+            <state relative-caret-position="-72">
+              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="276">
+              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,8 +174,8 @@
         <option value="$PROJECT_DIR$/src/D11_Queue_with_Stacks/QueueWithStacksTest.java" />
         <option value="$PROJECT_DIR$/src/D16_FizzBuzzTree/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/D16_FizzBuzzTree/Main.java" />
-        <option value="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java" />
         <option value="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java" />
+        <option value="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java" />
       </list>
     </option>
   </component>
@@ -251,7 +243,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533150512166" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533155179544" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -287,7 +279,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.BreadthFirstTest">
+    <configuration name="BreadthFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D17_BreadthFirstTraversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D17_BreadthFirstTraversal" />
+      <option name="MAIN_CLASS_NAME" value="D17_BreadthFirstTraversal.BreadthFirstTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BreadthFirstTest.breadthFirstTraversal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
@@ -304,8 +310,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BreadthFirstTest.breadthFirstTraversalOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D17_BreadthFirstTraversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D17_BreadthFirstTraversal" />
+      <option name="MAIN_CLASS_NAME" value="D17_BreadthFirstTraversal.BreadthFirstTest" />
+      <option name="METHOD_NAME" value="breadthFirstTraversalOneTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreadthFirstTest.breadthFirstTraversalTinyTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D17_BreadthFirstTraversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D17_BreadthFirstTraversal" />
+      <option name="MAIN_CLASS_NAME" value="D17_BreadthFirstTraversal.BreadthFirstTest" />
+      <option name="METHOD_NAME" value="breadthFirstTraversalTinyTreeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversal" />
+      <item itemvalue="JUnit.BreadthFirstTest" />
+      <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversalTinyTreeTest" />
+      <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversalOneTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BreadthFirstTest" />
+        <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversalOneTest" />
+        <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversalTinyTreeTest" />
         <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversal" />
       </list>
     </recent_temporary>
@@ -320,7 +367,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533141774288</updated>
-      <workItem from="1533141782899" duration="5048000" />
+      <workItem from="1533141782899" duration="5856000" />
     </task>
     <servers />
   </component>
@@ -337,9 +384,21 @@
     <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 04m 23s.xml">
       <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 06m 28s.xml">
+      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 07m 20s.xml">
+      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 08m 06s.xml">
+      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 08m 35s.xml">
+      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5048000" />
+    <option name="totallyTimeSpent" value="5856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -351,7 +410,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22889842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" />
@@ -375,6 +434,37 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.22889842" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -449,20 +539,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        <state relative-caret-position="-72">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
+    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        <state relative-caret-position="276">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
