@@ -3,9 +3,9 @@ package D16_FizzBuzzTree.tree;
 //from class lecture
 public class TreeNode {
 
-    protected int data;
-    protected TreeNode left;
-    protected TreeNode right;
+    public int data;
+    public TreeNode left;
+    public TreeNode right;
 
     public TreeNode(int value) {
         this.data = value;

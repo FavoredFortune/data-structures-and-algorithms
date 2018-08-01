@@ -2,7 +2,7 @@ package D16_FizzBuzzTree.tree;
 
 //from class lecture
 public class BinaryTree {
-    private TreeNode root;
+    public TreeNode root;
 
     public TreeNode getRoot() {
         return root;
