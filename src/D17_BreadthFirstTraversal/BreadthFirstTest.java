@@ -7,8 +7,8 @@ import static org.junit.Assert.*;
 
 public class BreadthFirstTest {
 
-    @org.junit.Test
-    public void breadthFirstTraversal() {
+    @Test
+    public void breadthFirstTraversalTest() {
         BreadthFirst tree = new BreadthFirst();
         TreeNode n53 = new TreeNode(53);
 
@@ -32,6 +32,49 @@ public class BreadthFirstTest {
 
         String actual = tree.breadthFirstTraversal();
         String expected = "\n53\n18\n75\n12\n24\n66\n99\n";
+
+        assertEquals(expected, actual);
+    }
+
+    @Test
+    public void breadthFirstTraversalTinyTreeTest() {
+        BreadthFirst tinytree = new BreadthFirst();
+        TreeNode n6= new TreeNode(6);
+
+        TreeNode n5= new TreeNode(5);
+        TreeNode n4 = new TreeNode(4);
+        TreeNode n3 = new TreeNode(3);
+
+        TreeNode n1 = new TreeNode(1);
+        TreeNode n2= new TreeNode(2);
+        TreeNode n7 = new TreeNode(7);
+
+        // connect nodes
+        tinytree.root = n6;
+        n6.left = n5;
+        n5.left = n7;
+        n5.right = n2;
+
+        n6.right = n3;
+        n3.left = n1;
+        n3.right = n4;
+
+        String actual = tinytree.breadthFirstTraversal();
+        String expected = "\n6\n5\n3\n7\n2\n1\n4\n";
+
+        assertEquals(expected, actual);
+    }
+
+    @Test
+    public void breadthFirstTraversalOneTest() {
+        BreadthFirst oneTree = new BreadthFirst();
+        TreeNode n6= new TreeNode(6);
+
+        // connect nodes
+        oneTree.root = n6;
+
+        String actual = oneTree.breadthFirstTraversal();
+        String expected = "\n6\n";
 
         assertEquals(expected, actual);
     }
