@@ -10,7 +10,7 @@ complete it's task and to complete this challenge.
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
-![Whiteboard 17](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard17.pdf)
+![Whiteboard 17](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard17.png)
 
 I also built a test that properly tests the function for several uses cases.
 

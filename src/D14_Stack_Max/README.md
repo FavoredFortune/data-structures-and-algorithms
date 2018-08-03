@@ -8,7 +8,7 @@ Use stacks to test and return true/false
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
-![Whiteboard 14](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard14.pdf)
+![Whiteboard 14](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard14.pNG)
 
 I also built a test that properly tests the function for several uses cases.
 

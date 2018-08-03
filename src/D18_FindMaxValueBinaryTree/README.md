@@ -1,42 +1,37 @@
 # Overview
 
-Use enque and deque to manage a First In First Out (FIFO) Animal Shelter
+Create a method that finds the maximum value in a node of a binary tree. Assume all values are whole integers. 
 
 ## Challenge
-All methods from the Java Queue interface are available. Only use Queue methods. (no stacks)
+Build a new recursive method that finds the maximum value of a node within a binary tree.
 
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
-![Whiteboard 12](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard12.png)
-
+![Whiteboard 18 image](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard18.png)
 
 I also built a test that properly tests the function for several uses cases.
 
-----------------------
+---------------------- 
 
-DOCUMENTATION
-
+#DOCUMENTATION
+##Code Challenge
+##Find Max of Binary Tree
 Code Challenge
-Implement a Queue using two Stacks.
+Find the Maximum Value in a Binary Tree
 
 Specifications
 Read all of the following instructions carefully. Name things exactly as described, or you will get a ZERO without comment
-Do all your work in a public repository called data-structures-and-algorithms, with a well-formated, detailed top level README.md matching the example provided by your instructor
-Create a branch in your repository called queue_with_stacks
+Do all your work in a public repository (matching the example provided by your instructor) called data-structures-and-algorithms, with a well-formated, detailed top-level README.md
+Create a branch in your repository called find-maximum-value-binary-tree
 On your branch, create…
-C#: Create a method named QueueWithStacks() outside of Main() in your Program.cs file. Call Your newly created method in Main() once complete.
-JavaScript: a file called queue_with_stacks.js
-Python: a file called queue_with_stacks.py
+C#: Create a method named FindMax() outside of Main() in your Program.cs file. Call Your newly created method in Main() once complete.
+JavaScript: a file called find-maximum-value-binary-tree.js
+Python: a file called find_maximum_value_binary_tree.py
 Include any language-specific configuration files required for this challenge to become an individual component, module, library, etc.
 NOTE: You can find an example of this configuration for your course in your class lecture repository.
 Feature Tasks
-Implement the following methods for the Queue class:
-
-enqueue(value) which inserts value into the Queue using a first-in, first-out approach.
-dequeue() which extracts a value from the Queue using a first-in, first-out approach.
-You have access to 2 Stack instances with push and pop methods.
-
+Write a function called find-maximum-value which takes binary tree as its only imput. Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
 Structure and Testing
 Utilize the Single-responsibility principle: any methods you write should be clean, reusable, abstract component parts to the whole challenge. You will be given feedback and marked down if you attempt to define a large, complex algorithm in one function definition.
 
@@ -44,17 +39,17 @@ Write at least three test assertions for each method that you define.
 
 Ensure your tests are passing before you submit your solution.
 
-Example
-enqueue(value)
-Input	Args	Output
-[10]->[15]->[20]	5	[5]->[10]->[15]->[20]
- 	5	[5]
-dequeue()
-Input	Output	Internal State
-[5]->[10]->[15]->[20]	20	[5]->[10]->[15])
-[5]->[10]->[15]	15	[5]->[10]
+###Example
+**Input**
+example
+![example tree](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/binary-tree-maxfind.png)
+**Output**
+11
 
-Submission Instructions
+
+
+###Submission Instructions
+
 Take a photo of your completed whiteboard, matching the example whiteboard layout
 Copy your photo into an /assets directory in your repo
 Give the image file the same name as the branch you are working on
