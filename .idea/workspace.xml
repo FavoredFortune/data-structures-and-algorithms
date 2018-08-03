@@ -15,34 +15,37 @@
     <session id="-1486250816">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
-          <entry key="md" value="3" />
+          <entry key="class" value="1" />
+          <entry key="java" value="13" />
+          <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
-          <entry key="Markdown" value="3" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="13" />
+          <entry key="Markdown" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2275" />
-          <entry key="md" value="604" />
+          <entry key="java" value="3889" />
+          <entry key="md" value="636" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2275" />
-          <entry key="Markdown" value="604" />
+          <entry key="JAVA" value="3889" />
+          <entry key="Markdown" value="636" />
         </counts>
       </usages-collector>
     </session>
@@ -50,99 +53,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/README.md">
+        <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="618">
-                <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+              <first_editor relative-caret-position="632">
+                <caret line="44" column="109" selection-start-line="44" selection-start-column="109" selection-end-line="44" selection-end-column="109" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D16_FizzBuzzTree/tree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D11_Queue_with_Stacks/QueueWithStacksTest.java">
+        <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMaxTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#260#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D10_Reverse/Reverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#967#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="839">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D16_FizzBuzzTree/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="21" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D12_FIFOAnimalShelter/FIFOAnimalShelterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D16_FizzBuzzTree/tree/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -182,6 +132,8 @@
         <option value="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java" />
         <option value="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java" />
         <option value="$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md" />
+        <option value="$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMax.java" />
+        <option value="$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMaxTest.java" />
       </list>
     </option>
   </component>
@@ -193,7 +145,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1087" />
     <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -204,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -237,7 +189,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533239310367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533270802652" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -252,6 +204,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="D18_FindMaxValueBinaryTree" />
       <recent name="D17_BreadthFirstTraversal" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -274,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BreadthFirstTest">
+  <component name="RunManager" selected="JUnit.FindMaxTest.breadthFirstTraversalOneTest">
     <configuration name="BreadthFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
@@ -285,22 +238,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="D17_BreadthFirstTraversal" />
       <option name="MAIN_CLASS_NAME" value="D17_BreadthFirstTraversal.BreadthFirstTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BreadthFirstTest.breadthFirstTraversal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="D17_BreadthFirstTraversal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="D17_BreadthFirstTraversal" />
-      <option name="MAIN_CLASS_NAME" value="D17_BreadthFirstTraversal.BreadthFirstTest" />
-      <option name="METHOD_NAME" value="breadthFirstTraversal" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -321,34 +258,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreadthFirstTest.breadthFirstTraversalTinyTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindMaxTest.breadthFirstTraversalOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="D17_BreadthFirstTraversal.*" />
+          <option name="PATTERN" value="D18_FindMaxValueBinaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="D17_BreadthFirstTraversal" />
-      <option name="MAIN_CLASS_NAME" value="D17_BreadthFirstTraversal.BreadthFirstTest" />
-      <option name="METHOD_NAME" value="breadthFirstTraversalTinyTreeTest" />
+      <option name="PACKAGE_NAME" value="D18_FindMaxValueBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="D18_FindMaxValueBinaryTree.FindMaxTest" />
+      <option name="METHOD_NAME" value="breadthFirstTraversalOneTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMaxTest.findMaxTestNegativeNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D18_FindMaxValueBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D18_FindMaxValueBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="D18_FindMaxValueBinaryTree.FindMaxTest" />
+      <option name="METHOD_NAME" value="findMaxTestNegativeNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMaxTest.findMaxTinyTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D18_FindMaxValueBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D18_FindMaxValueBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="D18_FindMaxValueBinaryTree.FindMaxTest" />
+      <option name="METHOD_NAME" value="findMaxTinyTreeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversal" />
       <item itemvalue="JUnit.BreadthFirstTest" />
-      <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversalTinyTreeTest" />
       <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversalOneTest" />
+      <item itemvalue="JUnit.FindMaxTest.findMaxTinyTreeTest" />
+      <item itemvalue="JUnit.FindMaxTest.findMaxTestNegativeNum" />
+      <item itemvalue="JUnit.FindMaxTest.breadthFirstTraversalOneTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindMaxTest.breadthFirstTraversalOneTest" />
+        <item itemvalue="JUnit.FindMaxTest.findMaxTestNegativeNum" />
+        <item itemvalue="JUnit.FindMaxTest.findMaxTinyTreeTest" />
         <item itemvalue="JUnit.BreadthFirstTest" />
         <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversalOneTest" />
-        <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversalTinyTreeTest" />
-        <item itemvalue="JUnit.BreadthFirstTest.breadthFirstTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -363,44 +334,51 @@
       <option name="presentableId" value="Default" />
       <updated>1533141774288</updated>
       <workItem from="1533141782899" duration="5856000" />
-      <workItem from="1533239058347" duration="252000" />
+      <workItem from="1533239058347" duration="6939000" />
+      <workItem from="1533268638328" duration="2050000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 00m 39s.xml">
-      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 14h 31m 29s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 01m 50s.xml">
-      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 14h 31m 39s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 03m 35s.xml">
-      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 14h 32m 45s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 04m 23s.xml">
-      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 17h 10m 25s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 06m 28s.xml">
-      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 21h 02m 17s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 07m 20s.xml">
-      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 21h 02m 46s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 08m 06s.xml">
-      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 21h 06m 09s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreadthFirstTest_breadthFirstTraversal - 2018.08.01 at 12h 08m 35s.xml">
-      <configuration name="BreadthFirstTest.breadthFirstTraversal" configurationId="JUnit" />
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 21h 10m 07s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 21h 11m 42s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindMaxTest_findMaxTinyTreeTest - 2018.08.02 at 21h 28m 09s.xml">
+      <configuration name="FindMaxTest.findMaxTinyTreeTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7343000" />
+    <option name="totallyTimeSpent" value="16080000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="832" extended-state="0" />
+    <frame x="0" y="23" width="1087" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17129187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -410,7 +388,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3709239" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37027028" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,7 +397,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32837838" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -468,6 +446,30 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMax.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMax.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMax.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/D11_Queue_with_Stacks/QueueWithStacks.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -495,16 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/D16_FizzBuzzTree/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -516,6 +508,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1421">
+            <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D12_FIFOAnimalShelter/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="174">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D16_FizzBuzzTree/tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -535,33 +574,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="632">
+            <caret line="44" column="109" selection-start-line="44" selection-start-column="109" selection-end-line="44" selection-end-column="109" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0-M1/junit-platform-commons-1.3.0-M1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+        <state relative-caret-position="140">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="618">
-            <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/FindMaxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
 # Overview
 
-Create a method that finds the maximum value in a node of a binary tree. Assume all values are positive integers. 
+Create a method that finds the maximum value in a node of a binary tree. Assume all values are whole integers. 
 
 ## Challenge
 Build a new recursive method that finds the maximum value of a node within a binary tree.
