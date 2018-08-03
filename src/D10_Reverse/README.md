@@ -11,7 +11,7 @@ See summary above. Working with linked lists to understand their properties and 
 In this challenge, I white boarded on paper and then coded in the IDE.
 
 
-![Whiteboard 10](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard10.pdf)
+![Whiteboard 10](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard10.png)
 
 I also built a test that properly tests the function for several uses cases.
 
