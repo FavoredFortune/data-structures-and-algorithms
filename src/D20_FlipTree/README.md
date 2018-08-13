@@ -8,6 +8,11 @@ Build a new method that swaps the node values of each right and left branch of e
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
+
+**External view**
+![Whiteboard 20 image](https://github.com/FavoredFortune/data-structures-and-algorithms/blob/master/assets/Whiteboard20.png)
+
+**Internal Editor file view**
 ![Whiteboard 20 image](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard20.png)
 
 I also built a test that properly tests the function for several uses cases.

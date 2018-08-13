@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb46a2e0-1aa7-45ff-a91f-3c9e27b2191f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/EeenyMeeneyMineyMoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures-and-algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures-and-algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D07_KthElement/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D07_KthElement/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D08_MergeLinkedLists/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D08_MergeLinkedLists/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D09_HasLoop/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D09_HasLoop/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D10_Reverse/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D10_Reverse/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D11_Queue_with_Stacks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D11_Queue_with_Stacks/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D13_MultiBracketValidation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D13_MultiBracketValidation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D14_Stack_Max/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D14_Stack_Max/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D16_FizzBuzzTree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D16_FizzBuzzTree/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D19_IsIdential/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D19_IsIdential/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D20_FlipTree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/D20_FlipTree/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +37,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="3" />
+          <entry key="java" value="3" />
+          <entry key="md" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="3" />
+          <entry key="JAVA" value="3" />
+          <entry key="Markdown" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1" />
+          <entry key="java" value="1026" />
+          <entry key="md" value="149" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="JAVA" value="1026" />
+          <entry key="Markdown" value="149" />
         </counts>
       </usages-collector>
     </session>
@@ -44,11 +64,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md">
+        <entry file="file://$PROJECT_DIR$/src/D14_Stack_Max/MaximumStackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="283">
-                <caret line="10" column="103" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
+              <first_editor relative-caret-position="162">
+                <caret line="9" selection-start-line="9" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,30 +88,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D19_IsIdential/README.md">
+        <entry file="file://$PROJECT_DIR$/src/D14_Stack_Max/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="319">
-                <caret line="11" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="11" />
+              <first_editor relative-caret-position="290">
+                <caret line="10" column="101" selection-start-line="10" selection-start-column="101" selection-end-line="10" selection-end-column="101" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="358">
+                <caret line="14" column="109" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/EeenyMeeneyMineyMoe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="348">
-                <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/EeenyMeeneyMineyMoeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>18</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,8 +166,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md" />
+        <option value="$PROJECT_DIR$/src/D07_KthElement/README.md" />
+        <option value="$PROJECT_DIR$/src/D08_MergeLinkedLists/README.md" />
+        <option value="$PROJECT_DIR$/src/D09_HasLoop/README.md" />
+        <option value="$PROJECT_DIR$/src/D10_Reverse/README.md" />
+        <option value="$PROJECT_DIR$/src/D11_Queue_with_Stacks/README.md" />
+        <option value="$PROJECT_DIR$/src/D12_FIFOAnimalShelter/README.md" />
+        <option value="$PROJECT_DIR$/src/D13_MultiBracketValidation/README.md" />
+        <option value="$PROJECT_DIR$/src/D14_Stack_Max/README.md" />
+        <option value="$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md" />
+        <option value="$PROJECT_DIR$/src/D20_FlipTree/README.md" />
         <option value="$PROJECT_DIR$/src/D17_BreadthFirstTraversal/README.md" />
+        <option value="$PROJECT_DIR$/src/D16_FizzBuzzTree/README.md" />
+        <option value="$PROJECT_DIR$/src/D19_IsIdential/README.md" />
+        <option value="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md" />
+        <option value="$PROJECT_DIR$/src/D14_Stack_Max/MaximumStackTest.java" />
+        <option value="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/EeenyMeeneyMineyMoe.java" />
+        <option value="$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/EeenyMeeneyMineyMoeTest.java" />
       </list>
     </option>
   </component>
@@ -112,6 +196,9 @@
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -139,19 +226,31 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="D14_Stack_Max" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="D15_Eeney_Meeney_Miney_Moe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D17_BreadthFirstTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="D18_FindMaxValueBinaryTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="D19_IsIdential" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="D20_FlipTree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,9 +262,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534123286060" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534129857040" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -174,6 +279,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="D15_Eeney_Meeney_Miney_Moe" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,6 +300,84 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.EeenyMeeneyMineyMoeTest">
+    <configuration name="EeenyMeeneyMineyMoeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D15_Eeney_Meeney_Miney_Moe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D15_Eeney_Meeney_Miney_Moe" />
+      <option name="MAIN_CLASS_NAME" value="D15_Eeney_Meeney_Miney_Moe.EeenyMeeneyMineyMoeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EeenyMeeneyMineyMoeTest.moeEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D15_Eeney_Meeney_Miney_Moe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D15_Eeney_Meeney_Miney_Moe" />
+      <option name="MAIN_CLASS_NAME" value="D15_Eeney_Meeney_Miney_Moe.EeenyMeeneyMineyMoeTest" />
+      <option name="METHOD_NAME" value="moeEmptyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EeenyMeeneyMineyMoeTest.moeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D15_Eeney_Meeney_Miney_Moe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D15_Eeney_Meeney_Miney_Moe" />
+      <option name="MAIN_CLASS_NAME" value="D15_Eeney_Meeney_Miney_Moe.EeenyMeeneyMineyMoeTest" />
+      <option name="METHOD_NAME" value="moeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EeenyMeeneyMineyMoeTest.moeTinyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D15_Eeney_Meeney_Miney_Moe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D15_Eeney_Meeney_Miney_Moe" />
+      <option name="MAIN_CLASS_NAME" value="D15_Eeney_Meeney_Miney_Moe.EeenyMeeneyMineyMoeTest" />
+      <option name="METHOD_NAME" value="moeTinyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.EeenyMeeneyMineyMoeTest.moeTest" />
+      <item itemvalue="JUnit.EeenyMeeneyMineyMoeTest.moeEmptyTest" />
+      <item itemvalue="JUnit.EeenyMeeneyMineyMoeTest.moeTinyTest" />
+      <item itemvalue="JUnit.EeenyMeeneyMineyMoeTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EeenyMeeneyMineyMoeTest" />
+        <item itemvalue="JUnit.EeenyMeeneyMineyMoeTest.moeTinyTest" />
+        <item itemvalue="JUnit.EeenyMeeneyMineyMoeTest.moeEmptyTest" />
+        <item itemvalue="JUnit.EeenyMeeneyMineyMoeTest.moeTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -197,12 +388,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534115908428</updated>
-      <workItem from="1534115910299" duration="1356000" />
+      <workItem from="1534115910299" duration="6393000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="EeenyMeeneyMineyMoeTest_moeTest - 2018.08.12 at 19h 04m 24s.xml">
+      <configuration name="EeenyMeeneyMineyMoeTest.moeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EeenyMeeneyMineyMoeTest_moeTest - 2018.08.12 at 19h 10m 31s.xml">
+      <configuration name="EeenyMeeneyMineyMoeTest.moeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EeenyMeeneyMineyMoeTest_moeTest - 2018.08.12 at 19h 25m 51s.xml">
+      <configuration name="EeenyMeeneyMineyMoeTest.moeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EeenyMeeneyMineyMoeTest_moeTest - 2018.08.12 at 19h 26m 21s.xml">
+      <configuration name="EeenyMeeneyMineyMoeTest.moeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EeenyMeeneyMineyMoeTest_moeEmptyTest - 2018.08.12 at 19h 27m 48s.xml">
+      <configuration name="EeenyMeeneyMineyMoeTest.moeEmptyTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1356000" />
+    <option name="totallyTimeSpent" value="6393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="0" />
@@ -214,16 +422,17 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16809729" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32880434" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39945653" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -244,22 +453,84 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/EeenyMeeneyMineyMoe.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md">
+    <entry file="file://$PROJECT_DIR$/src/D12_FIFOAnimalShelter/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="283">
-            <caret line="10" column="103" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
+          <first_editor relative-caret-position="290">
+            <caret line="10" column="102" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="102" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D19_IsIdential/README.md">
+    <entry file="file://$PROJECT_DIR$/src/D11_Queue_with_Stacks/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="319">
-            <caret line="11" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="11" />
+          <first_editor relative-caret-position="261">
+            <caret line="9" column="101" selection-start-line="9" selection-start-column="101" selection-end-line="9" selection-end-column="101" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D13_MultiBracketValidation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="87">
+            <caret line="3" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D10_Reverse/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="377">
+            <caret line="13" column="101" selection-start-line="13" selection-start-column="101" selection-end-line="13" selection-end-column="101" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D09_HasLoop/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="12" column="100" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D08_MergeLinkedLists/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="377">
+            <caret line="13" column="100" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D07_KthElement/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="12" column="115" selection-start-line="12" selection-start-column="115" selection-end-line="12" selection-end-column="115" />
           </first_editor>
           <second_editor />
         </state>
@@ -269,9 +540,99 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="348">
-            <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <caret line="16" column="105" selection-start-line="16" selection-start-column="105" selection-end-line="16" selection-end-column="105" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D16_FizzBuzzTree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="290">
+            <caret line="14" column="106" selection-start-line="14" selection-start-column="106" selection-end-line="14" selection-end-column="106" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D19_IsIdential/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="274">
+            <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D20_FlipTree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="15" column="105" selection-start-line="15" selection-start-column="105" selection-end-line="15" selection-end-column="105" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D18_FindMaxValueBinaryTree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="9" selection-start-line="9" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="358">
+            <caret line="14" column="109" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D14_Stack_Max/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="290">
+            <caret line="10" column="101" selection-start-line="10" selection-start-column="101" selection-end-line="10" selection-end-column="101" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D14_Stack_Max/MaximumStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/EeenyMeeneyMineyMoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D15_Eeney_Meeney_Miney_Moe/EeenyMeeneyMineyMoeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
