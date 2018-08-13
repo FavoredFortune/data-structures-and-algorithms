@@ -11,7 +11,11 @@ an inOrder, a String, a String Builder and Fizz Buzz methods to complete this ch
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
-![Whiteboard 16](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard16.png)
+**External view**
+![Whiteboard 16 image](https://github.com/FavoredFortune/data-structures-and-algorithms/blob/master/assets/Whiteboard16.png)
+
+**Internal Editor file view**
+![Whiteboard 16 image](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard16.png)
 
 I also built a test that properly tests the function for several uses cases.
 

@@ -8,7 +8,7 @@ All methods from the Java Queue interface are available. Only use Queue methods.
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
-![Whiteboard 12](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard12.png)
+![Whiteboard 12](/https://github.com/FavoredFortune/data-structures-and-algorithms/blob/master/assets/Whiteboard12.png)
 
 
 I also built a test that properly tests the function for several uses cases.

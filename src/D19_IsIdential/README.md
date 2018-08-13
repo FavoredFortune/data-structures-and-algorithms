@@ -8,7 +8,11 @@ Build a new method that finds two Binary Trees are identical (not just same valu
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
-![Whiteboard 19 image](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard19.png)
+**External view**
+![Whiteboard 19 external image](https://github.com/FavoredFortune/data-structures-and-algorithms/blob/master/assets/Whiteboard19.png)
+
+**Internal Editor file view**
+![Whiteboard 19 internal image](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard19.png)
 
 I also built a test that properly tests the function for several uses cases.
 

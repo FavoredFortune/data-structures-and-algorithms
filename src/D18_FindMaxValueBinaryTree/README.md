@@ -8,6 +8,10 @@ Build a new recursive method that finds the maximum value of a node within a bin
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
 
+**External view**
+![Whiteboard 18 image](https://github.com/FavoredFortune/data-structures-and-algorithms/blob/master/assets/Whiteboard18.png)
+
+**Internal Editor file view**
 ![Whiteboard 18 image](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/Whiteboard18.png)
 
 I also built a test that properly tests the function for several uses cases.
