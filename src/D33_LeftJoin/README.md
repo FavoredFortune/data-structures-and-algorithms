@@ -54,6 +54,7 @@ Ensure your tests are passing before you submit your solution.
 
 ##Example
 input-output
+![hashtable example](/Users/sooz/codefellows/401Java/data-structures-and-algorithms/assets/hashtable_example.png)
 
 ##Stretch Goals
 Consider a RIGHT JOIN. Can you implement this as a new function? How about by passing an optional parameter to your initial function, to speficy if LEFT JOIN or RIGHT JOIN logic should be used?
