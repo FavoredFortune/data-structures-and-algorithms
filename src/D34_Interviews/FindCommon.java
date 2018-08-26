@@ -1,5 +1,7 @@
 package D34_Interviews;
 //just scratching out my solution for future reference.
+
+
 public class findMostCommon {
 
     public String mostFrequentWord(String book){
@@ -13,6 +15,7 @@ public class findMostCommon {
 
         int frequencyCount = 1;
 
+        //find the largest number of occurences by word and store in hashmap called "frequency Map"
         for (int i = 0; i<bookString.length -1; ++) {
             if (frequencyMap.containsKey(bookString[i])) {
                 frequencyMap.get(key).put(frequencyCount += 1);
@@ -20,6 +23,11 @@ public class findMostCommon {
                 frequencyMap.put(bookString[i], frequencyCount);
             }
         }
+
+        //after found largest number of occurences by word in frequencyMap
+        //start at the begining of the book using the book array list and look at each word
+        //if the word matches the most occurences number, return that word and it is
+//        guaranteed to be the first most occuring word in the book to account for the edge case descbed.
         for (String word: book){
             if(wordTally.get(word == most(count))){
                 return word;
@@ -29,7 +37,8 @@ public class findMostCommon {
     }
 }
 
-//Class solution
+//Class solution - didn't account for edge case.
+
 //
 //Map<String,Integer> tally = new HashMap<>();
 //Map<Integer, String> first = new HashMap<>();
