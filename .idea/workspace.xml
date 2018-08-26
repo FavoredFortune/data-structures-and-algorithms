@@ -36,35 +36,36 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="6" />
-          <entry key="jpg" value="2" />
-          <entry key="md" value="6" />
+          <entry key="java" value="8" />
+          <entry key="jpg" value="3" />
+          <entry key="md" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="2" />
-          <entry key="JAVA" value="6" />
-          <entry key="Markdown" value="6" />
+          <entry key="Image" value="3" />
+          <entry key="JAVA" value="8" />
+          <entry key="Markdown" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="908" />
+          <entry key="java" value="2159" />
           <entry key="md" value="571" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="908" />
+          <entry key="JAVA" value="2159" />
           <entry key="Markdown" value="571" />
         </counts>
       </usages-collector>
@@ -73,36 +74,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1364">
-                <caret line="56" column="112" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="112" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/D34_Interviews/FindUnique.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state>
+              <caret selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/SoozRichman_WB34_MostFrequentWord.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -121,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/src/D32_TreeIntersection/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-645">
+              <first_editor relative-caret-position="348">
                 <caret line="12" column="106" selection-start-line="12" selection-start-column="106" selection-end-line="12" selection-end-column="106" />
               </first_editor>
               <second_editor />
@@ -132,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="870">
               <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -155,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="58">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="38" />
+              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -561,6 +546,7 @@
         <option value="$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java" />
         <option value="$PROJECT_DIR$/src/D33_LeftJoin/README.md" />
         <option value="$PROJECT_DIR$/src/D34_Interviews/FindUnique.java" />
+        <option value="$PROJECT_DIR$/src/D34_Interviews/FindCommon.java" />
       </list>
     </option>
   </component>
@@ -583,8 +569,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -614,10 +598,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="D31_RepeatedWord" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="D34_Interviews" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -655,13 +646,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535141896088" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535313104646" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -762,16 +754,18 @@
       <option name="presentableId" value="Default" />
       <updated>1534284288441</updated>
       <workItem from="1534709945357" duration="1998000" />
+      <workItem from="1535313114350" duration="2053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8284000" />
+    <option name="totallyTimeSpent" value="10337000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="23" width="1440" height="828" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2067239" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -837,6 +831,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin.java" />
     <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -844,8 +839,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1624">
+            <caret line="56" column="112" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="112" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D31_RepeatedWord/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -857,42 +859,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D32_TreeIntersection/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-645">
-            <caret line="12" column="106" selection-start-line="12" selection-start-column="106" selection-end-line="12" selection-end-column="106" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Whiteboard32.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="870">
           <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -900,25 +869,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1364">
-            <caret line="56" column="112" selection-start-line="56" selection-start-column="112" selection-end-line="56" selection-end-column="112" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/Whiteboard32.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D34_Interviews/FindUnique.java">
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D34_Interviews/FindUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D34_Interviews/FindCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D32_TreeIntersection/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="12" column="106" selection-start-line="12" selection-start-column="106" selection-end-line="12" selection-end-column="106" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/SoozRichman_WB34_MostFrequentWord.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
