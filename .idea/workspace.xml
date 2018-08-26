@@ -7,24 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f99959a-d02f-477f-9329-542005930d23" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-structures-and-algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures-and-algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D01_ArrayReverse/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D02_ArrayShift/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D03_BinarySearch/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D04_AdjecentProduct/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D05_Fibonacci/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D05_Matrix/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D06_Insertions/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D07_KthElement/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D08_MergeLinkedLists/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D09_HasLoop/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D10_Reverse/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D11_Queue_with_Stacks/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D12_FIFOAnimalShelter/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D13_MultiBracketValidation/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/D14_Stack_Max/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D14_Stack_Max/MaximumStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D14_Stack_Max/MaximumStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/D33_LeftJoin/LeftJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D33_LeftJoin/LeftJoin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/D34_Interviews/FindCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D34_Interviews/FindCommon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/D34_Interviews/FindUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D34_Interviews/FindUnique.java" afterDir="false" />
     </list>
@@ -74,16 +63,19 @@
     <session id="-1486250816">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="14" />
+          <entry key="java" value="21" />
           <entry key="jpg" value="7" />
           <entry key="md" value="9" />
         </counts>
@@ -91,20 +83,20 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="7" />
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="21" />
           <entry key="Markdown" value="9" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4066" />
+          <entry key="java" value="5013" />
           <entry key="md" value="840" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4066" />
+          <entry key="JAVA" value="5013" />
           <entry key="Markdown" value="840" />
         </counts>
       </usages-collector>
@@ -118,63 +110,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/Whiteboard33.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin/LeftJoin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
+              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
               <folding>
-                <element signature="e#0#2216#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D06_Insertions/LinkedListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#2660#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrixTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin/LeftJoinTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="11">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/D14_Stack_Max/MaximumStackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="19" column="22" selection-start-column="2" selection-end-line="46" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -183,6 +148,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -567,13 +533,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/D31_RepeatedWord/README.md" />
         <option value="$PROJECT_DIR$/src/D32_TreeIntersection/README.md" />
-        <option value="$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java" />
         <option value="$PROJECT_DIR$/src/D33_LeftJoin/README.md" />
-        <option value="$PROJECT_DIR$/src/D34_Interviews/FindCommon.java" />
         <option value="$PROJECT_DIR$/src/D34_Interviews/isUnique_README.md" />
         <option value="$PROJECT_DIR$/src/D34_Interviews/FindCommon_README.md" />
+        <option value="$PROJECT_DIR$/src/D34_Interviews/FindCommon.java" />
         <option value="$PROJECT_DIR$/src/D34_Interviews/FindUnique.java" />
+        <option value="$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java" />
+        <option value="$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java" />
+        <option value="$PROJECT_DIR$/src/D14_Stack_Max/MaximumStackTest.java" />
         <option value="$PROJECT_DIR$/src/D33_LeftJoin/LeftJoin.java" />
+        <option value="$PROJECT_DIR$/src/D33_LeftJoin/LeftJoinTest.java" />
       </list>
     </option>
   </component>
@@ -601,46 +570,30 @@
           <expand>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D05_Matrix" type="462c0819:PsiDirectoryNode" />
+              <item name="D04_AdjecentProduct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D06_Insertions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D12_FIFOAnimalShelter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="D17_BreadthFirstTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="D33_LeftJoin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
@@ -679,16 +632,28 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535317757765" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535321620430" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="D33_LeftJoin" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/D33_LeftJoin" />
       <recent name="$PROJECT_DIR$/src/D32_TreeIntersection" />
@@ -707,7 +672,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.LeftJoinTest.leftJoinPartEmptyTest">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -752,6 +717,87 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeftJoinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D33_LeftJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D33_LeftJoin" />
+      <option name="MAIN_CLASS_NAME" value="D33_LeftJoin.LeftJoinTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftJoinTest.leftJoinEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D33_LeftJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D33_LeftJoin" />
+      <option name="MAIN_CLASS_NAME" value="D33_LeftJoin.LeftJoinTest" />
+      <option name="METHOD_NAME" value="leftJoinEmptyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftJoinTest.leftJoinPartEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D33_LeftJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D33_LeftJoin" />
+      <option name="MAIN_CLASS_NAME" value="D33_LeftJoin.LeftJoinTest" />
+      <option name="METHOD_NAME" value="leftJoinPartEmptyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftJoinTest.leftJoinTinyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D33_LeftJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D33_LeftJoin" />
+      <option name="MAIN_CLASS_NAME" value="D33_LeftJoin.LeftJoinTest" />
+      <option name="METHOD_NAME" value="leftJoinTinyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="D14_Stack_Max.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="D14_Stack_Max" />
+      <option name="MAIN_CLASS_NAME" value="D14_Stack_Max.MaximumStackTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -775,6 +821,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="JUnit.LeftJoinTest.leftJoinTinyTest" />
+      <item itemvalue="JUnit.MaximumStackTest" />
+      <item itemvalue="JUnit.LeftJoinTest" />
+      <item itemvalue="JUnit.LeftJoinTest.leftJoinEmptyTest" />
+      <item itemvalue="JUnit.LeftJoinTest.leftJoinPartEmptyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LeftJoinTest.leftJoinPartEmptyTest" />
+        <item itemvalue="JUnit.LeftJoinTest.leftJoinEmptyTest" />
+        <item itemvalue="JUnit.LeftJoinTest.leftJoinTinyTest" />
+        <item itemvalue="JUnit.LeftJoinTest" />
+        <item itemvalue="JUnit.MaximumStackTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -788,17 +851,49 @@
       <updated>1534284288441</updated>
       <workItem from="1534709945357" duration="1998000" />
       <workItem from="1535313114350" duration="4913000" />
+      <workItem from="1535318186852" duration="60000" />
+      <workItem from="1535318282354" duration="2299000" />
+      <workItem from="1535320613080" duration="812000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MaximumStackTest - 2018.08.26 at 15h 04m 04s.xml">
+      <configuration name="MaximumStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DO1_ArrayReverseTest - 2018.08.26 at 15h 05m 13s.xml">
+      <configuration name="DO1_ArrayReverseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdjacentProductTest - 2018.08.26 at 15h 05m 35s.xml">
+      <configuration name="AdjacentProductTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaximumStackTest - 2018.08.26 at 15h 05m 49s.xml">
+      <configuration name="MaximumStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeftJoinTest - 2018.08.26 at 15h 06m 12s.xml">
+      <configuration name="LeftJoinTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeftJoinTest - 2018.08.26 at 15h 07m 27s.xml">
+      <configuration name="LeftJoinTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13197000" />
+    <option name="totallyTimeSpent" value="16368000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21530758" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -808,21 +903,21 @@
       <window_info id="Capture Tool" order="7" />
       <window_info id="Learn" order="8" />
       <window_info id="UI Designer" order="9" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32880434" />
       <window_info anchor="bottom" id="Logcat" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32880434" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32880434" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32880434" />
       <window_info anchor="bottom" id="Android Profiler" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32880434" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -841,6 +936,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/D33_LeftJoin/LeftJoinTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
@@ -893,54 +1000,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirst.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/SoozRichman_WB34_MostFrequentWord.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/AmyCohen_WB_34UniqueString.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D34_Interviews/FindUnique.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D34_Interviews/FindCommon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D34_Interviews/isUnique_README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -972,27 +1043,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Whiteboard32.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/Whiteboard33.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin/LeftJoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <folding>
-            <element signature="e#0#2216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D06_Insertions/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1003,13 +1055,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrixTest.java">
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D05_Matrix/RotateMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D17_BreadthFirstTraversal/BreadthFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Whiteboard32.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D01_ArrayReverse/DO1_ArrayReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D34_Interviews/FindUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="30" column="15" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D34_Interviews/FindCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D32_TreeIntersection/TreeIntersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="28" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D04_AdjecentProduct/AdjacentProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D14_Stack_Max/MaximumStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="19" column="22" selection-start-column="2" selection-end-line="46" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin/LeftJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D33_LeftJoin/LeftJoinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
