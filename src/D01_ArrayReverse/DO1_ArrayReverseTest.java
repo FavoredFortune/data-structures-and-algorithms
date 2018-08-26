@@ -3,7 +3,7 @@ package D01_ArrayReverse;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class DO1_ArrayReverseTest {
+public class DO1_ArrayReverseTest {
     @Test
     public void reverseArrayEmpty() {
         int [] arr ={};
