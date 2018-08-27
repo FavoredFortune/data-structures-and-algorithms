@@ -20,10 +20,10 @@ I also built a test that properly tests the function for several uses cases.
 ---------------------- 
 
 #DOCUMENTATION
-Code Challenge
+#Code Challenge
 Find common values in 2 binary trees.
 
-Specifications
+##Specifications
 Read all of the following instructions carefully. Name things exactly as described, or you will get a ZERO without comment
 Do all your work in a public repository (matching the example provided by your instructor) called data-structures-and-algorithms, with a well-formatted, detailed top-level README.md
 Create a branch in your repository called tree_intersection
@@ -34,7 +34,9 @@ Python: a file called tree_intersection.py
 Java: a file called TreeIntersection.java
 Include any language-specific configuration files required for this challenge to become an individual component, module, library, etc.
 NOTE: You can find an example of this configuration for your course in your class lecture repository.
-Feature Tasks
+
+
+##Feature Tasks
 Write a function called tree_intersection that takes two binary tree parameters.
 Without utilizing any of the built-in library methods available to your language, return a set of values found in both trees.
 Structure and Testing
