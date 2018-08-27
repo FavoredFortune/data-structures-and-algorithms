@@ -5,7 +5,7 @@ package D16_FizzBuzzTree;
 //doesn't work with String object - need to review this again and figure it out.
 public class FizzBuzzTree {
 
-    public String fizzBuzzTree(StringBuilder string){
+    public  String fizzBuzzTree(StringBuilder string){
         for(int i = 0 ; i >string.length(); i++){
 
             if (i % 3 == 0 && i % 5 == 0){
