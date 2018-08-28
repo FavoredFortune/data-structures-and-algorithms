@@ -44,7 +44,7 @@ public class AdjacentProduct {
 
     public static int greatestValue(int[][] superArray, int row, int col) {
 
-        //instantiate each item within each array, within the outer array aka superArray
+        //initialize each item within each array, within the outer array aka superArray
         int element = superArray[row][col];
         int largestValue = 0;
 
