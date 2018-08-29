@@ -47,11 +47,11 @@ public class MergeSort {
         int[] right;
 
         if(middle % 2 == 0) {
-            right = new int[middle];
+            right = new int[middle + 1];
         } else if (middle == 1 && inputArray.length % 2 == 0 ) {
             right = new int[middle];
         } else{
-            right = new int[middle +1];
+            right = new int[middle + 1];
         }
 
         int j = 0;

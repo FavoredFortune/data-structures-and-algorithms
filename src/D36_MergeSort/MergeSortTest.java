@@ -1,10 +1,11 @@
 package D36_MergeSort;
 
 //NOTE: code & test works only in new project
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.assertArrayEquals;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import java.util.Arrays;
+
+import static org.junit.Assert.*;
 
 public class MergeSortTest {
 
@@ -16,11 +17,53 @@ public class MergeSortTest {
     }
 
     @Test
-    public void mergeSortTestSmall() {
+    public void mergeSortTestSmallOdd() {
 
         int[] expected = {1,2,3};
         int[] array = {3,1,2};
         int[] actual = MergeSort.mergeSort(array);
+        for(int number: actual){
+            System.out.println(number);
+        }
+
+        assertArrayEquals(expected, actual);
+    }
+
+    @Test
+    public void mergeSortTestSmallEven() {
+
+        int[] expected = {1,2,3,4};
+        int[] array = {3,1,4,2};
+        int[] actual = MergeSort.mergeSort(array);
+
+        for(int number: actual){
+            System.out.println(number);
+        }
+
+        assertArrayEquals(expected, actual);
+    }
+
+
+    @Test
+    public void mergeSortTestLargeEven() {
+
+        int[] expected = {1,2,3,4,11,12,77,101};
+        int[] array = {3,1,4,2,101,77,12,11};
+        int[] actual = MergeSort.mergeSort(array);
+
+        for(int number: actual){
+            System.out.println(number);
+        }
+
+        assertArrayEquals(expected, actual);
+    }
+    @Test
+    public void mergeSortTestLargeOdd() {
+
+        int[] expected = {1,2,3,4,11,12,77,88,101};
+        int[] array = {3,1,88,4,2,101,77,12,11};
+        int[] actual = MergeSort.mergeSort(array);
+
         for(int number: actual){
             System.out.println(number);
         }
