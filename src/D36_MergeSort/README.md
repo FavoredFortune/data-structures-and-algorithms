@@ -7,7 +7,8 @@ Build a new method that returns a single hashmaps with a single set of keys and 
 
 ## Solution
 In this challenge, I white boarded on my tablet and then coded in the IDE.
-
+NOTE: code & test works only in new project - copies of code for both are here, but must be put into a new project to
+ work. 
 
 **External view**
 ![Whiteboard 36 image](https://github.com/FavoredFortune/data-structures-and-algorithms/blob/master/assets/Whiteboard36.png)
