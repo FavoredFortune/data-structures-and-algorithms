@@ -10,7 +10,7 @@ pasted here for grading submission**
 
 ##Whiteboard Challenges by Day/Title
 
-[Day 1: Array Reverse](/https://github.com/FavoredFortune/data-structures-and-algorithms/tree/master/src/D01_ArrayReverse)
+[Day 1: Array Reverse](src/D01_ArrayReverse)
 
 [Day 2: Array Shift](/https://github.com/FavoredFortune/data-structures-and-algorithms/tree/master/src/D02_ArrayShift)
 
